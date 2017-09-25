@@ -1,5 +1,21 @@
 theme: jekyll-theme-minimal
 title: Majster Klepka
 description: Feel free to bookmark this to keep eye on my project
-email: starywandal@onet.pl
-twitter: StaryWandal
+email: 48721262935pl@gmail.com
+twitter_username: StaryWandal
+github_username: majsterklepka
+
+markdown: kramdown
+plugins:
+ - jekyll-feed
+
+# Exclude from processing
+
+# exclude:
+#   - Gemfile
+#   - Gemfile.lock
+#   - node_modules
+#   - vendor/bundle/
+#   - vendor/cache/
+#   - vendor/gems/
+#   - vendor/ruby/
