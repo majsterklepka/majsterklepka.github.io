@@ -1,13 +1,15 @@
-theme: jekyll-theme-minimal
+theme: jekyll-theme-merlot
 title: Majster Klepka
 description: Feel free to bookmark this to keep eye on my project
 email: 48721262935pl@gmail.com
 twitter_username: StaryWandal
 github_username: majsterklepka
+permalink: title
 
 markdown: kramdown
 plugins:
  - jekyll-feed
+ - jekyll-sitemap
 
 # Exclude from processing
 
