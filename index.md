@@ -1,6 +1,12 @@
+---
+lang: pl_PL
+---
+
+
 # Witaj na GitHub.io!
 
-Nazywam się Majster Klepka, jestem hobbyistą a przynajmniej za takiego się uważam. Mam 45 lat i jestem coderem, ale nie tylko...
+Nazywam się Majster Klepka, jestem hobbyistą a przynajmniej za takiego się uważam. Mam 45 lat i jestem coderem, ale nie tylko...  
+więcej na: [about me]({{ site.baseurl }}{% link about.md %} "about me")
 
 ***
 

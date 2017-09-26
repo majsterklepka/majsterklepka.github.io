@@ -7,7 +7,7 @@ permalink: /about/
 
 ### Informacje
 
-[back to main site](../ "main site")
+[back to main site]({{ site.baseurl }}{% link index.md %} "back to main site")
 
 Nazywam się Majster Klepka, mam 45 lat, posiadam ukończone studia wyższe, jestem inżynierem. Programowanie, podobnie jak radioamatorstwo to moja pasja i chociaż, nie zawsze i wszędzie mogę ją pielęgnować i rozwijać to jest to coś, co bardzo pomaga w życiu. Kiedyś bawiłem się w modelarza... 
 
