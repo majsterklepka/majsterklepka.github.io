@@ -36,3 +36,12 @@ Aplikacje mówią po polsku i generują wydruki w języku polskim. Działają w 
 
 Obie aplikacje zostały napisane pod OS Linux. Testowane pod Fedora 26 Workstation Linux.
 
+***
+
+## Wsparcie
+
+Jeśli chcesz, możesz przekazać mi darowiznę. Nie jest to obowiązkowe, ale jest mile widziane. Rozwój oprogramowania to jest jednak pewien koszt, często bardzo znaczący dla budżetu.
+
+{% include buttonpaypal.html %}
+ 
+
