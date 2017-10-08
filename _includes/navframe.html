@@ -1,0 +1,8 @@
+<section class="dropdown">
+<button class="dropbtn">{{ site.data.navframe.docs_list_title }}</button>
+<div class="dropdown-content">
+  {% for item in site.data.navframe.docs %}
+	<a href="{{ item.url | relative_url }}" alt="{{ item.title }}">{{ item.title }}</a>
+  {% endfor %}	
+</div>
+</section>
