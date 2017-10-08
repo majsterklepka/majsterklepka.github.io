@@ -1,6 +1,6 @@
 ---
-lang: pl_PL
-layout: default
+lang: pl
+layout: home
 title: Informacje
 ---
 
