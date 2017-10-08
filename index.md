@@ -5,26 +5,26 @@ lang: pl_PL
 
 # Witaj na GitHub.io!
 
-Nazywam się Majster Klepka, jestem hobbyistą a przynajmniej za takiego się uważam. Mam 45 lat i jestem koderem, ale nie tylko...  
-więcej na: [informacje]({{ site.baseurl }}{% link about.md %} "informacje")
+Nazywam się Majster Klepka, jestem hobbystą a przynajmniej za takiego się uważam. Mam 45 lat i jestem koderem, ale nie tylko...  
+więcej na: [[informacje]({{ site.baseurl }}{% link about.md %} "informacje")]
 
 
 ***
 
 ## Moje repozytoria kodu
 
-- [blogtutor](https://github.com/majsterklepka/blogtutor "repozytorium blogtutor") 
-- [BaCaDe](https://github.com/majsterklepka/BaCaDe "Aplikacja Bank Cash Deposit")
+- [[blogtutor](https://github.com/majsterklepka/blogtutor "repozytorium blogtutor")] 
+- [[BaCaDe](https://github.com/majsterklepka/BaCaDe "Aplikacja Bank Cash Deposit")]
 
 ## Co robię?
 
 Ostatnio napisałem kilka programów. Oto jeden z nich: 
 
-- [Bank Cash Deposit](https://github.com/majsterklepka/blogtutor/tree/bank_rev_0.5 "Bank Cash Deposit rev. 0.5") aplikacja do przygotowywania wydruków blankietów wpłat gotówkowych/przelewów.
+- [[Bank Cash Deposit](https://github.com/majsterklepka/blogtutor/tree/bank_rev_0.5 "Bank Cash Deposit rev. 0.5")] aplikacja do przygotowywania wydruków blankietów wpłat gotówkowych/przelewów.
 
 Następnym jest, taki oto sobie program: 
 
-- [AppBankIncome](https://github.com/majsterklepka/blogtutor/tree/bank_rev_0.0.1 "AppBankIncome rev. 0.0.1") aplikacja, podobnie jak ta wyżej, służy do przygotowywania wydruków blankietów wpłat wpłat gotówkowych/przelewów bankowych.
+- [[AppBankIncome](https://github.com/majsterklepka/blogtutor/tree/bank_rev_0.0.1 "AppBankIncome rev. 0.0.1")] aplikacja, podobnie jak ta wyżej, służy do przygotowywania wydruków blankietów wpłat wpłat gotówkowych/przelewów bankowych.
 
 
 Wspólnymi cechami obu programów jest niwelowanie błędów, jakie najczęściej popełnia człowiek. Oba programy weryfikują poprawność numeru rachunku bankowego w standardzie IBAN oraz przygotowują wydruk spełniający wymagania większości placówek bankowych i punktów przyjmowania wpłat.

@@ -2,12 +2,11 @@
 lang: pl_PL
 layout: default
 title: Informacje
-permalink: /about/
 ---
 
 ### Informacje
 
-[strona główna]({{ site.baseurl }}{% link index.md %} "strona główna")
+[[strona główna]({{ site.baseurl }}{% link index.md %} "strona główna")]
 
 Nazywam się Majster Klepka, mam 45 lat, posiadam ukończone studia wyższe, jestem inżynierem. Programowanie, podobnie jak radioamatorstwo to moja pasja i chociaż, nie zawsze i wszędzie mogę ją pielęgnować i rozwijać to jest to coś, co bardzo pomaga w życiu. Kiedyś bawiłem się w modelarza... 
 
@@ -21,4 +20,4 @@ Piszę w C, Python, PHP, HTML i CSS. Dalej się uczę i rozwijam. Co nieco znam 
 
 ### Contact me
 
-[starywandal@onet.pl](mailto:starywandal@onet.pl)
+email: [starywandal@onet.pl](mailto:starywandal@onet.pl)
