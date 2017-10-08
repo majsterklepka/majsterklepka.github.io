@@ -6,6 +6,12 @@ twitter_username: StaryWandal
 github_username: majsterklepka
 permalink: title
 
+defaults:
+  - scope:
+      path: "assets/image"
+    values:
+      image: true
+
 markdown: kramdown
 plugins:
  - jekyll-feed

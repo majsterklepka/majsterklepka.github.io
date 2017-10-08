@@ -1,5 +1,5 @@
 <section class="dropdown">
-<button class="dropbtn">{{ site.data.navframe.docs_list_title }}</button>
+<p class="dropbtn">{% include images.html file="/assets/image/ikona.png" max-width="100%" %}</p>
 <div class="dropdown-content">
   {% for item in site.data.navframe.docs %}
 	<a href="{{ item.url | relative_url }}" alt="{{ item.title }}">{{ item.title }}</a>
