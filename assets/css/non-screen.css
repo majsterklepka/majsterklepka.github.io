@@ -1,4 +1,4 @@
-@import url("main-mobile.css")
+@import 'main-mobile.css'
 
 a#forkme_banner {
   display: none;
