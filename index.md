@@ -4,45 +4,44 @@ layout: home
 ---
 
 
-# Witaj na GitHub.io!
+# Welcome at GitHub.io!
 
-Nazywam się Majster Klepka, jestem hobbystą a przynajmniej za takiego się uważam. Mam 45 lat i jestem koderem, ale nie tylko...  
-więcej na: [[INFO]({{ site.baseurl }}{% link about.md %} "informacje")]
+My name is Majster Klepka, I am a hobbyist, or at least I think so. I am 45 years old and am a coder, but not just ...  
+more at: [[INFO]({{ site.baseurl }}{% link about.md %} "informations")]
 
 
 ***
 
-## Moje repozytoria kodu
+## My code repositories
 
 - [[blogtutor](https://github.com/majsterklepka/blogtutor "repozytorium blogtutor")] 
 - [[BaCaDe](https://github.com/majsterklepka/BaCaDe "Aplikacja Bank Cash Deposit")]
 
-## Co robię?
+## What I do?
 
-Ostatnio napisałem kilka programów. Oto jeden z nich: 
+Recently I wrote several programs. Here is one of them:
 
-- [[Bank Cash Deposit](https://github.com/majsterklepka/blogtutor/tree/bank_rev_0.5 "Bank Cash Deposit rev. 0.5")] aplikacja do przygotowywania wydruków blankietów wpłat gotówkowych/przelewów.
+- [[Bank Cash Deposit](https://github.com/majsterklepka/blogtutor/tree/bank_rev_0.5 "Bank Cash Deposit rev. 0.5")] application for printing cash / money transfer forms.
 
-Następnym jest, taki oto sobie program: 
+Next is the program itself: 
 
-- [[AppBankIncome](https://github.com/majsterklepka/blogtutor/tree/bank_rev_0.0.1 "AppBankIncome rev. 0.0.1")] aplikacja, podobnie jak ta wyżej, służy do przygotowywania wydruków blankietów wpłat wpłat gotówkowych/przelewów bankowych.
+- [[AppBankIncome](https://github.com/majsterklepka/blogtutor/tree/bank_rev_0.0.1 "AppBankIncome rev. 0.0.1")] This application, like the one above, is used to prepare printouts of cash deposit / bank transfer forms.
 
+The common features of both programs are the leveling down of mistakes that most people commit. Both programs verify the bank account number in the IBAN standard and prepare a print that meets the requirements of most bank branches and deposit accepting points.
 
-Wspólnymi cechami obu programów jest niwelowanie błędów, jakie najczęściej popełnia człowiek. Oba programy weryfikują poprawność numeru rachunku bankowego w standardzie IBAN oraz przygotowują wydruk spełniający wymagania większości placówek bankowych i punktów przyjmowania wpłat.
+I limited to 59 (56) the number of characters in the field, I broke the IBAN number into segments, making it easier to enter, reducing the possibility of error.
 
-Ograniczyłem do 59(56) liczbę znaków w polu, rozbiłem numer IBAN na segmenty, co ułatwia wprowadzanie, zmniejszając możliwość popełnienia błędu. 
+The printout is legible, with large fonts.
 
-Wydruk jest czytelny, z odpowiednio dużymi czcionkami.
+Applications speak Polish and generate prints in Polish. They are in terminal character mode.
 
-Aplikacje mówią po polsku i generują wydruki w języku polskim. Działają w trybie terminala znakowego.
-
-Obie aplikacje zostały napisane pod OS Linux. Testowane pod Fedora 26 Workstation Linux.
+Both applications have been written under OS Linux. Tested under Fedora 26 Workstation Linux.
 
 ***
 
-## Wsparcie
+## Donation
 
-Jeśli chcesz, możesz przekazać mi darowiznę. Nie jest to obowiązkowe, ale jest mile widziane. Rozwój oprogramowania to jest jednak pewien koszt, często bardzo znaczący dla budżetu.
+If you want, you can give me a donation. This is not compulsory, but it is welcome. Software development is, however, a cost, often very significant for the budget.
 
 {% include buttonpaypal.html %}
  

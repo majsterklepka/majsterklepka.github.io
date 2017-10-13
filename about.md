@@ -1,22 +1,22 @@
 ---
 lang: pl
 layout: home
-title: Informacje
+title: about
 ---
 
-### Informacje
+### About
 
-[[strona główna]({{ site.baseurl }}{% link index.md %} "strona główna")]
+[[home]({{ site.baseurl }}{% link index.md %} "main site")]
 
-Nazywam się Majster Klepka, mam 45 lat, posiadam ukończone studia wyższe, jestem inżynierem. Programowanie, podobnie jak radioamatorstwo to moja pasja i chociaż, nie zawsze i wszędzie mogę ją pielęgnować i rozwijać to jest to coś, co bardzo pomaga w życiu. Kiedyś bawiłem się w modelarza... 
+My name is Majster Klepka, I am 45 years old, I have completed university studies, I am an engineer. Programming, like radio amateurs, is my passion and though, not always and everywhere, I can cherish and develop it is something that helps a lot in life. I used to play with a model ...
 
-Tak naprawdę to noszę inne imię i inne nazwisko, ale naprawdę mam 45 lat i jestem inżynierem. To, co prawda dla nikogo nic nie znaczy, ale dla mnie... jest to już coś ważnego.
+I really have a different name and a different name, but I'm really 45 and I'm an engineer. It does not matter to anyone, but for me ... it is something important.
 
-Zapewne ktoś zapyta się: Jaka uczelnia? Jaki wydział? Ukończyłem studia wyższe z zakresu fizyki technicznej, uzyskując absolutorium i broniąc pracę dyplomową z wynikiem 4.0. Posiada tytuł Master of Science a przy okazji specjalizowałem się w zakresie fizyki jądrowej.
+Probably someone will ask: What college? What department? I graduated from the field of technical physics, obtaining a discharge and defending a diploma thesis with a score of 4.0. He holds a Master of Science degree and I have specialized in nuclear physics.
 
-Z Linuksem jestem związany od jakichś 15-17 lat. Prawie zniszczono by mi sprzęt, bo w tamtych latach uważano Linuksa za typowy przykład pirackiego oprogramowania. Niektórzy i dziś tak uważają. Używałem Auroxa, Red Hat'a, Mandrive, Debiana... używałem i używam też MS Windows.
+With Linux I have been involved for some 15-17 years. I would have destroyed my hardware, because in those years Linux was considered a typical example of pirated software. Some people today think so. I used Aurox, Red Hat, Mandrive, Debian ... I used and also use MS Windows.
 
-Piszę w C, Python, PHP, HTML i CSS. Dalej się uczę i rozwijam. Co nieco znam się na grafice komputerowej i DTP. Swoją pracę dyplomową złożyłem pod Latex'em a obliczenia wykonałem przy pomocy Octave.
+I am writing in C, Python, PHP, HTML and CSS. I continue to learn and develop. I know a bit about computer graphics and DTP. I made my diploma work at Latex and my calculations were done with Octave.
 
 ### Contact me
 
