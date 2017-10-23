@@ -13,7 +13,7 @@ My name is Majster Klepka, I am a hobbyist, or at least I think so. I am 45 year
 
 ## My code repositories
 
-- [[blogtutor](https://github.com/majsterklepka/bcd "repozytorium bcd")] 
+- [[bcd](https://github.com/majsterklepka/bcd "repozytorium bcd")] 
 - [[BaCaDe](https://github.com/majsterklepka/BaCaDe "Aplikacja Bank Cash Deposit")]
 
 ## What I do?
