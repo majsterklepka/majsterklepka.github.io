@@ -36,12 +36,4 @@ Applications speak Polish and generate prints in Polish. They are in terminal ch
 
 Both applications have been written under OS Linux. Tested under Fedora 26 Workstation Linux.
 
-***
-
-## Donation
-
-If you want, you can give me a donation. This is not compulsory, but it is welcome. Software development is, however, a cost, often very significant for the budget.
-
-{% include buttonpaypal.html %}
- 
 
