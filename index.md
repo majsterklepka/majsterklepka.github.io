@@ -6,7 +6,7 @@ layout: home
 
 # Welcome at My Homepage!
 
-My name is Majster Klepka, I am a hobbyist, or at least I think so. I am 45 years old and am a coder, but not just ... more at: [[INFO]({{ site.baseurl }}{% link about.md %} "informations")]
+My name is Majster Klepka, I am a hobbyist, or at least I think so. I am 45 years old and I am a coder, but not just ... more at: [[INFO]({{ site.baseurl }}{% link about.md %} "informations")]
 
 
 ***
