@@ -6,6 +6,9 @@ twitter_username: StaryWandal
 github_username: majsterklepka
 permalink: title
 
+github:
+  repository_url: https://github.com/majsterklepka
+
 defaults:
   - scope:
       path: "assets/image"
