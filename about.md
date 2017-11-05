@@ -1,16 +1,16 @@
 ---
-lang: pl
+lang: en
 layout: home
-title: about
+title: About
 ---
 
-### About
+## About
 
-[[home]({{ site.baseurl }}{% link index.md %} "main site")]
+[[home]({{ site.baseurl }}{% link index.md %} "main page")]
 
 My name is Majster Klepka, I am 45 years old, I have completed university studies, I am an engineer. Programming, like radio amateurs, is my passion and though, not always and everywhere, I can cherish and develop it is something that helps a lot in life. I used to play with a model ...
 
-I really have a different name and a different name, but I'm really 45 and I'm an engineer. It does not matter to anyone, but for me ... it is something important.
+I really have a different name and vorname, but I'm really 45 and I'm an engineer. It does not matter to anyone, but for me ... it is something important.
 
 Probably someone will ask: What college? What department? I graduated from the field of technical physics, obtaining a discharge and defending a diploma thesis with a score of 4.0. He holds a Master of Science degree and I have specialized in nuclear physics.
 
