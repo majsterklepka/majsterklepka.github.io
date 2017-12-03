@@ -18,6 +18,3 @@ With Linux I have been involved for some 15-17 years. I would have destroyed my 
 
 I am writing in C, Python, PHP, HTML and CSS. I continue to learn and develop. I know a bit about computer graphics and DTP. I made my diploma work at Latex and my calculations were done with Octave.
 
-### Contact me
-
-email: [starywandal@onet.pl](mailto:starywandal@onet.pl)
