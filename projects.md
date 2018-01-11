@@ -20,7 +20,14 @@ https://github.com/majsterklepka/bcd.git
 
 Link to repository homepage: [[https://majsterklepka.github.io/bcd](https://majsterklepka.github.io/bcd "repository bcd homepage")]
 
-_Majster Klepka (C)2017_
+### Bank Cash Deposit (BaCaDe)
+
+This project is written in C with fully use of GTK+ library. By now, it has full functionality and is compiling without any errors. For build I use meson build system, but most of work I do under Eclipse. More at repository wiki page. 
+
+Link to repository: [[https://github.com/majsterklepka/BaCaDe](https://github.com/majsterklepka/BaCaDe "repository BACaDe")]  
+
+
+_Majster Klepka (C)2017-2018_
 
 
 
