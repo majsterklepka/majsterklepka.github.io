@@ -1,24 +1,26 @@
 theme: jekyll-theme-merlot
 title: Majster Klepka
 description: Feel free to bookmark this to keep eye on my project
-email: starywandal@onet.pl
 twitter_username: StaryWandal
 github_username: majsterklepka
+repository: majsterklepka/majsterklepka.github.io
 permalink: title
-
-github:
-  repository_url: https://github.com/majsterklepka
 
 defaults:
   - scope:
       path: "assets/image"
     values:
       image: true
+   
+favicon: favicon.ico
+
+github:
+  repository_url: https://github.com/majsterklepka
 
 markdown: kramdown
-plugins:
- - jekyll-feed
- - jekyll-sitemap
+
+plugins_dir:
+ - github-pages
 
 # Exclude from processing
 
