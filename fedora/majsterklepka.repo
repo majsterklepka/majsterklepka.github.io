@@ -1,6 +1,6 @@
 [majsterklepka-repo]
 name=MajsterKlepka repos
-baseurl=http://majsterklepka.github.io/fedora
+baseurl=http://majsterklepka.github.io/fedora/
 gpgkey=http://majsterklepka.github.io/fedora/RPM-GPG-KEY-MAJSTERKLEPKA
 type=rpm
 enabled=1
