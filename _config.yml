@@ -16,12 +16,15 @@ defaults:
 favicon: favicon.ico
 
 github:
-  repository_url: https://github.com/majsterklepka
+  repository_url: https://github.com/majsterklepka/majsterklepka.github.io
 
 markdown: kramdown
 
 plugins_dir:
  - github-pages
+
+plugins:
+        - "jekyll-github-metadata"    
 
 # Exclude from processing
 
