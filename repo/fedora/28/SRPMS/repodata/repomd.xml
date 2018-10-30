@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <repomd xmlns="http://linux.duke.edu/metadata/repo" xmlns:rpm="http://linux.duke.edu/metadata/rpm">
-  <revision>1540867675</revision>
+  <revision>1540886286</revision>
   <data type="primary">
     <checksum type="sha256">56332d29f11279ac8959cf124eee8c6168dbe9d82d87f16b2a570b3a5b19cdc5</checksum>
     <open-checksum type="sha256">e5803159f859f63bfbfa1d89d2f44789f83fda21c7743321b32bbfe4c9334371</open-checksum>
     <location href="repodata/56332d29f11279ac8959cf124eee8c6168dbe9d82d87f16b2a570b3a5b19cdc5-primary.xml.gz"/>
-    <timestamp>1540867675</timestamp>
+    <timestamp>1540886286</timestamp>
     <size>743</size>
     <open-size>1439</open-size>
   </data>
@@ -13,7 +13,7 @@
     <checksum type="sha256">b59728a38bf1af48af601d2680fc5a46c7480e583332d05c94aa966cd02dbac5</checksum>
     <open-checksum type="sha256">21ea235b95fe33cfdd17f7900ee9d17bac6240b5d16cc9b2a4a08cdce1f465e8</open-checksum>
     <location href="repodata/b59728a38bf1af48af601d2680fc5a46c7480e583332d05c94aa966cd02dbac5-filelists.xml.gz"/>
-    <timestamp>1540867675</timestamp>
+    <timestamp>1540886286</timestamp>
     <size>256</size>
     <open-size>363</open-size>
   </data>
@@ -21,7 +21,7 @@
     <checksum type="sha256">e207be58b8921ce5398ed22050f16e47bbd1be30b9ef0086b3154599a6d4699c</checksum>
     <open-checksum type="sha256">4e38cbad0939f7ed095aa7b84fc8cc69e87161261368951e678c0cd1df46ca7d</open-checksum>
     <location href="repodata/e207be58b8921ce5398ed22050f16e47bbd1be30b9ef0086b3154599a6d4699c-other.xml.gz"/>
-    <timestamp>1540867675</timestamp>
+    <timestamp>1540886286</timestamp>
     <size>470</size>
     <open-size>1151</open-size>
   </data>
@@ -29,7 +29,7 @@
     <checksum type="sha256">55f5b61653fa43f302cccd71195420e6923d797ccfaec75c6fa038e4c7235e63</checksum>
     <open-checksum type="sha256">31978861a72db0f33088fe4ac4cd881ec1d50a2e857b4dc47554a241475296d7</open-checksum>
     <location href="repodata/55f5b61653fa43f302cccd71195420e6923d797ccfaec75c6fa038e4c7235e63-primary.sqlite.bz2"/>
-    <timestamp>1540867677</timestamp>
+    <timestamp>1540886288</timestamp>
     <size>2082</size>
     <open-size>106496</open-size>
     <database_version>10</database_version>
@@ -38,7 +38,7 @@
     <checksum type="sha256">9ac25261db3bf1df3108909bf8838ce104989959c0e353ed82d97834e208235d</checksum>
     <open-checksum type="sha256">67906168227f1e4efdce0dfee9f8993c6a6a5a5788785c5b673e7c216ed3b1be</open-checksum>
     <location href="repodata/9ac25261db3bf1df3108909bf8838ce104989959c0e353ed82d97834e208235d-filelists.sqlite.bz2"/>
-    <timestamp>1540867675</timestamp>
+    <timestamp>1540886286</timestamp>
     <size>748</size>
     <open-size>28672</open-size>
     <database_version>10</database_version>
@@ -47,7 +47,7 @@
     <checksum type="sha256">ebe13eaa030d895816529d972db8f6e51debc042f508ce8a23e9117e833ab948</checksum>
     <open-checksum type="sha256">71f1ccc5c352fb25d513ab25f7daed87a5e5d3526bf701d4318f676122cf6ed1</open-checksum>
     <location href="repodata/ebe13eaa030d895816529d972db8f6e51debc042f508ce8a23e9117e833ab948-other.sqlite.bz2"/>
-    <timestamp>1540867675</timestamp>
+    <timestamp>1540886286</timestamp>
     <size>1032</size>
     <open-size>24576</open-size>
     <database_version>10</database_version>
@@ -56,7 +56,7 @@
     <checksum type="sha256">0e4602fe95ed003ae40c8e88a896aab1b3a2002a48143603caad8d1966c495d2</checksum>
     <open-checksum type="sha256">531fb7c5e74add771427a6f1359dcd730a512c2e5843390701a1975adbec7131</open-checksum>
     <location href="repodata/majsterklepka-fedora-sources.xml.gz"/>
-    <timestamp>1540867682</timestamp>
+    <timestamp>1540886294</timestamp>
     <size>113</size>
     <open-size>105</open-size>
   </data>
@@ -64,7 +64,7 @@
     <checksum type="sha256">1639ab175580a626044947211a1f63c551b0a4780f6576686724f89a3d7c1b59</checksum>
     <open-checksum type="sha256">0e814ae6aca2ce943044683c114765c5fdb18781e52f6db9aa188c707f925ee8</open-checksum>
     <location href="repodata/majsterklepka-fedora-sources-icons.tar.gz"/>
-    <timestamp>1540867682</timestamp>
+    <timestamp>1540886294</timestamp>
     <size>5512</size>
     <open-size>7680</open-size>
   </data>
