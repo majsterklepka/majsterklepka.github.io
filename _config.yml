@@ -1,11 +1,11 @@
-remote_theme: just-the-docs
+theme: just-the-docs
 title: Paweł Sobótka
 description: Feel free to bookmark this to keep eye on my project
 twitter_username: StaryWandal
 github_username: majsterklepka
 email: starywandal@onet.pl
 repository: majsterklepka/majsterklepka.github.io
-permalink: title
+permalink: pretty
 
 defaults:
   - scope:
@@ -17,6 +17,11 @@ github:
   repository_url: https://github.com/majsterklepka/majsterklepka.github.io
 
 favicon: favicon.ico
+
+sass:
+  # Load dependancies
+  load_paths:
+    - node_modules/
 
 markdown: kramdown
 
