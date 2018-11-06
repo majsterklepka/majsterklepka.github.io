@@ -1,5 +1,5 @@
-theme: jekyll-theme-merlot
-title: Majster Klepka
+theme: just-the-docs
+title: Paweł Sobótka
 description: Feel free to bookmark this to keep eye on my project
 twitter_username: StaryWandal
 github_username: majsterklepka
@@ -28,11 +28,11 @@ plugins:
 
 # Exclude from processing
 
-# exclude:
+exclude:
 #   - Gemfile
 #   - Gemfile.lock
-#   - node_modules
-#   - vendor/bundle/
-#   - vendor/cache/
-#   - vendor/gems/
-#   - vendor/ruby/
+   - node_modules
+   - vendor/bundle/
+   - vendor/cache/
+   - vendor/gems/
+   - vendor/ruby/

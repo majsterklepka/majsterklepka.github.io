@@ -1,40 +1,27 @@
 ---
-lang: en
-layout: home
+lang: pl
 title: Main Page
 ---
 
 
-# Welcome at My Homepage!
+# Witam na mojej stronie!
 
-My name is Paweł Sobótka, I am the Engineer. I'm enthusiast open source too. I am 46 years old and I am a coder, but not just ... more at: [[INFO]({{ site.baseurl }}{% link about.md %} "informations")]
+Cześć, nazywam się Paweł Sobótka! Z wykształcenia jestem inżynierem. Czym się zajmuję? Oczywiście, że Open Source! Tym mikrobem zaraziłem się na studiach, i mimo, że od ukończenia studiów minęło już ładnych parę lat... nadal pasjonuję się Open Source!
 
+Moim zawodem jest inżynieria, w ciągu całego toku studiów, bardzo starałem się poznać jak najwięcej z jak największej ilości dziedzin nauki i techniki. Studiowałem fizykę techniczną, ale moje zainteresowania pozwalają mi powiedzieć o sobie, że jestem Makerem, Mechatronikiem, Robotykiem, Modelarzem, Radioamatorem, Koderem a przy okazji, co jest równie ważne, uwielbiam piękno, co widać na robionych przeze mnie fotografiach.
 
-***
+## Moje repozytoria kodu
+Jak już wcześniej wspomniałem jestem Koderem, i swoją twórczość udostępniam na Wolnych Licencjach. Poniżej znajduje się lista moich repozytoriów z odnośnikami do stron, jeśli takowe istnieją:
 
-## My code repositories
+- Repozytorium [Bank Cash Deposit](https://github.com/majsterklepka/BaCaDe "Repozytorium BaCaDe") -> [Strona Domowa projektu](https://majsterklepka.github.io/BaCaDe "Strona Domowa Projektu BaCaDe")
+- Repozytorium [libiban](https://github.com/majsterklepka/libiban "Repozytorium libiban") - biblioteki testującej poprawność numeru IBAN
+- Repozytorium [pitylinux](https://github.com/majsterklepka/pitylinux "Repozytorium pitylinux") programu do wypełniania deklaracji pit(wstępna faza rozwoju)
+- Repozytorium [Today's Jobs](https://github.com/majsterklepka/tdsj "Repozytorium tdsj") repozytorium z efektem zwykłej, codziennej pracy
+- Repozytorium [Ham Radio Project](https://github.com/majsterklepka/hrl "Repozytorium hrl") to efekt mojej pracy w zakresie mojego radio-hobby
 
-- [[https://github.com/majsterklepka/bcd](https://github.com/majsterklepka/bcd "repository bcd")] (deprecated)
-- [[https://github.com/majsterklepka/BaCaDe](https://github.com/majsterklepka/BaCaDe "repository BaCaDe")]
+Jest jeszcze jedno repozytorium, projekt jest nierozwijany ale chyba do niego wrócę, a jest to:
 
-## What I do?
+- Repozytorium [bcd](https://github.com/majsterklepka/bcd "Repozytorium bcd") -> [Strona Domowa Projektu](https://majsterklepka.github.io/bcd "Strona Domowa Projektu Bank Cash Deposit w Python") - jest to aplikacja napisana w języku Python i zawiera pewne błędy związane z obsługą ogromnych liczb o wielkiej precyzji, aktualnie jest aplikacją nie rozwijaną.
 
-Recently I wrote several programs. Here is one of them:
-
-- [[Bank Cash Deposit](https://github.com/majsterklepka/BaCaDe/releases/latest, "Latest release")] application for printing cash / money transfer forms.
-
-Next is the program itself: 
-
-- [[AppBankIncome](https://github.com/majsterklepka/bcd/tree/bank_rev_0.0.1 "AppBankIncome rev. 0.0.1")] This application, like the one above, is used to prepare printouts of cash deposit / bank transfer forms. (deprecated)
-
-The common features of both programs are the leveling down of mistakes that most people commit. Both programs verify the bank account number in the IBAN standard and prepare a print that meets the requirements of most bank branches and deposit accepting points.
-
-I limited to 59 (56) the number of characters in the field, I broke the IBAN number into segments, making it easier to enter, reducing the possibility of error.
-
-The printout is legible, with large fonts.
-
-Applications speak Polish and generate prints in Polish. They are in terminal character mode.
-
-Both applications have been written under OS Linux. Tested under Fedora 26-27-28 Workstation Linux.
-
+Pozostaje jeszcze mój [blog osobisty](https://hothead-hobbyist.blogspot.com "Blog Osobisty na Blogger.com"). No i jeszcze profil na [Google+](https://plus.google.com/u/0/communities/117763257839180572219 "Google Plus Profil"). Jestem również obecny na [Twitterze](https://twitter.com/StaryWandal "@StaryWandal")
 

@@ -1,12 +1,9 @@
 ---
 lang: en
-layout: home
 title: About
 ---
 
-## About
-
-[[home]({{ site.baseurl }}{% link index.md %} "main page")]
+# About
 
 My name is Paweł Sobótka, I am 46 years old, I have completed university studies, I am an engineer & scientist. Programming, like radio amateurs, is my passion and though, not always and everywhere, I can cherish and develop it is something that helps a lot in life. I used to play with a model ... In the past time, I have interest in passion named Maker, that's means, I'm a Maker. I don't have a lots money, but I have a Dream... and I am Dreamer and somehow it worked out, I'm a visionary. For girl - I'm not married and I haven't any children, but I don't make research to find a Wife, I will remain a bachelor. 
 
