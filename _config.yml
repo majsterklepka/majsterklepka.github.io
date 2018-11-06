@@ -12,11 +12,11 @@ defaults:
       path: "assets/image"
     values:
       image: true
-   
-favicon: favicon.ico
 
 github:
   repository_url: https://github.com/majsterklepka/majsterklepka.github.io
+
+favicon: favicon.ico
 
 markdown: kramdown
 

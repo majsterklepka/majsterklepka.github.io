@@ -1,5 +1,6 @@
 ---
 lang: pl
+layout: default
 title: Main Page
 ---
 

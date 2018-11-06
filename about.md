@@ -1,5 +1,6 @@
 ---
 lang: en
+layout: default
 title: About
 ---
 
