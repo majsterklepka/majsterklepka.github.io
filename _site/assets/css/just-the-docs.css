@@ -161,8 +161,8 @@ hr { height: 1px; padding: 0; margin: 2rem 0; background-color: #eeebee; border:
 
 @media (min-width: 46.25rem) { .main-content-wrap { position: absolute; top: 0; left: 0; width: 100%; height: 100%; min-height: 600px; -webkit-overflow-scrolling: touch; overflow-x: hidden; overflow-y: scroll; } }
 
-.main-content { padding-top: 1rem; padding-left: 1rem; padding-right: 1rem; }
-@media (min-width: 46.25rem) { .main-content { padding-left: 2rem; padding-right: 2rem; } }
+.main-content { padding-top: 1rem; padding-right: 1rem; padding-left: 1rem; }
+@media (min-width: 46.25rem) { .main-content { padding-right: 2rem; padding-left: 2rem; } }
 @media (min-width: 46.25rem) { .main-content { position: relative; max-width: 800px; padding-top: 2rem; padding-bottom: 2rem; padding-left: 3rem; margin-left: 232px; } }
 @media (min-width: 70rem) { .main-content { padding-left: 2rem; margin-left: calc((100% - 1032px) / 2 + 232px); } }
 
@@ -171,8 +171,8 @@ hr { height: 1px; padding: 0; margin: 2rem 0; background-color: #eeebee; border:
 .page-header .main-content { padding-top: 0; }
 @media (min-width: 46.25rem) { .page-header .main-content { display: flex; justify-content: space-between; padding-top: 1rem; } }
 
-.navigation, .site-title, .site-footer { padding-left: 1rem; padding-right: 1rem; width: 100%; }
-@media (min-width: 46.25rem) { .navigation, .site-title, .site-footer { padding-left: 2rem; padding-right: 2rem; } }
+.navigation, .site-title, .site-footer { padding-right: 1rem; padding-left: 1rem; width: 100%; }
+@media (min-width: 46.25rem) { .navigation, .site-title, .site-footer { padding-right: 2rem; padding-left: 2rem; } }
 @media (min-width: 70rem) { .navigation, .site-title, .site-footer { width: 264px; } }
 
 @media (min-width: 46.25rem) { .navigation { padding-top: 3rem; overflow-y: auto; flex: 1 1 auto; } }
@@ -202,7 +202,7 @@ body { position: relative; padding-bottom: 4rem; }
 .page-content dd { margin-left: 1em; font-weight: 500; }
 
 .site-title { display: block; flex: 1 1 auto; background-color: #f5f6fa; }
-@media (min-width: 46.25rem) { .site-title { position: absolute; top: 0; right: 0; height: 60px; padding-top: 1rem; z-index: 101; box-shadow: inset 0 -1px 0 #eeebee; } }
+@media (min-width: 46.25rem) { .site-title { position: absolute; top: 0; right: 0; z-index: 101; height: 60px; padding-top: 1rem; box-shadow: inset 0 -1px 0 #eeebee; } }
 
 .navigation-list { padding: 0; margin-top: 1rem; margin-bottom: 0; list-style: none; }
 @media (min-width: 46.25rem) { .navigation-list { margin-top: 0; } }
@@ -262,7 +262,7 @@ li .highlight { margin-top: 0.5rem; }
 
 .text-center { text-align: center !important; }
 
-.label, .label-blue { display: inline-block; padding-top: 0.16em; padding-right: 0.42em; padding-bottom: 0.16em; padding-left: 0.42em; margin-right: 0.25rem; margin-left: 0.25rem; color: #fff; vertical-align: middle; background-color: #2869e6; text-transform: uppercase; font-size: 11px !important; }
+.label, .label-blue { display: inline-block; padding-top: 0.16em; padding-right: 0.42em; padding-bottom: 0.16em; padding-left: 0.42em; margin-right: 0.25rem; margin-left: 0.25rem; color: #fff; text-transform: uppercase; vertical-align: middle; background-color: #2869e6; font-size: 11px !important; }
 @media (min-width: 31.25rem) { .label, .label-blue { font-size: 12px !important; } }
 
 .label-green { background-color: #009c7b; }
