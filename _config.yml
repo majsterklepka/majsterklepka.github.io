@@ -1,7 +1,6 @@
 theme: jekyll-theme-midnight
 title: Paweł Sobótka
 description: Feel free to bookmark this to keep eye on my project
-twitter_username: StaryWandal
 github_username: majsterklepka
 email: starywandal@onet.pl
 repository: majsterklepka/majsterklepka.github.io
@@ -14,14 +13,9 @@ defaults:
       image: true
 
 github:
-  repository_url: https://github.com/majsterklepka/majsterklepka.github.io
+  repository_url: https://github.com/majsterklepka
 
 favicon: favicon.ico
-
-sass:
-  # Load dependancies
-  load_paths:
-    - node_modules/
 
 markdown: kramdown
 
@@ -33,7 +27,7 @@ plugins:
 
 # Exclude from processing
 
-exclude:
+# exclude:
 #   - Gemfile
 #   - Gemfile.lock
 #   - node_modules
