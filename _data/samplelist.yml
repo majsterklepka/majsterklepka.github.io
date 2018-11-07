@@ -1,0 +1,9 @@
+docs_list_title: Navigation
+docs:
+
+- title: Main Page
+  url: /
+
+- title: About
+  url: /about/
+
