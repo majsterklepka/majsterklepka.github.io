@@ -16,7 +16,7 @@ Jak już wcześniej wspomniałem jestem Koderem, i swoją twórczość udostępn
 
 - Repozytorium [Bank Cash Deposit](https://github.com/majsterklepka/BaCaDe "Repozytorium BaCaDe") -> [Strona Domowa projektu](https://majsterklepka.github.io/BaCaDe "Strona Domowa Projektu BaCaDe")
 - Repozytorium [libiban](https://github.com/majsterklepka/libiban "Repozytorium libiban") - biblioteki testującej poprawność numeru IBAN
-- Repozytorium [pitylinux](https://github.com/majsterklepka/pitylinux "Repozytorium pitylinux") programu do wypełniania deklaracji pit(wstępna faza rozwoju)
+- Repozytorium pitylinux zostało usunięte, przyczyną było zmiana prawa podatkowego w Polsce i rezygnacja z papierowych rozliczeń deklaracji PIT. Od rozliczeń za rok 2018(czyli od 2019 roku) deklaracje PIT-37 a od 2020, pozostałe będą rozliczane wyłącznie przez Administrację Podatkową.
 - Repozytorium [Today's Jobs](https://github.com/majsterklepka/tdsj "Repozytorium tdsj") repozytorium z efektem zwykłej, codziennej pracy
 - Repozytorium [Ham Radio Project](https://github.com/majsterklepka/hrl "Repozytorium hrl") to efekt mojej pracy w zakresie mojego radio-hobby
 
