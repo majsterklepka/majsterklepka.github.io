@@ -1,7 +1,7 @@
 ---
 lang: pl
 layout: default
-title: majsterklepka.github.io | Strona Główna 
+title: majsterklepka.github.io => Strona Główna 
 ---
 
 
