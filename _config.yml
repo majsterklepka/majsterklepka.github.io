@@ -16,6 +16,7 @@ github:
   repository_url: https://github.com/majsterklepka
 
 favicon: favicon.ico
+fluidicon: fluidicon.png 
 
 markdown: kramdown
 

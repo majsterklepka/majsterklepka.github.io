@@ -1,7 +1,7 @@
 ---
 lang: pl
 layout: default
-title: Main Page
+title: majsterklepka.github.io | Strona Główna 
 ---
 
 
