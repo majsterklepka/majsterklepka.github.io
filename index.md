@@ -19,10 +19,11 @@ Jak już wcześniej wspomniałem jestem Koderem, i swoją twórczość udostępn
 - Repozytorium pitylinux zostało usunięte, przyczyną było zmiana prawa podatkowego w Polsce i rezygnacja z papierowych rozliczeń deklaracji PIT. Od rozliczeń za rok 2018(czyli od 2019 roku) deklaracje PIT-37 a od 2020, pozostałe będą rozliczane wyłącznie przez Administrację Podatkową.
 - Repozytorium [Today's Jobs](https://github.com/majsterklepka/tdsj "Repozytorium tdsj") repozytorium z efektem zwykłej, codziennej pracy
 - Repozytorium [Ham Radio Project](https://github.com/majsterklepka/hrl "Repozytorium hrl") to efekt mojej pracy w zakresie mojego radio-hobby
+- Repozytorium [Carramba Libs](https://github.com/majsterklepka/carramba-libs "Repozytorium Carramba Libs") to projekt z biblioteką Open Source zaprojektowaną do walidacji numerów osobistych, takich jak PESEL, NIP, REGON, IBAN. Biblioteka sprawdza poprawność polskich numerów, co jest przydatne w biznesie.
 
 Jest jeszcze jedno repozytorium, projekt jest nierozwijany ale chyba do niego wrócę, a jest to:
 
 - Repozytorium [bcd](https://github.com/majsterklepka/bcd "Repozytorium bcd") -> [Strona Domowa Projektu](https://majsterklepka.github.io/bcd "Strona Domowa Projektu Bank Cash Deposit w Python") - jest to aplikacja napisana w języku Python i zawiera pewne błędy związane z obsługą ogromnych liczb o wielkiej precyzji, aktualnie jest aplikacją nie rozwijaną.
 
-Pozostaje jeszcze mój [blog osobisty](https://hothead-hobbyist.blogspot.com "Blog Osobisty na Blogger.com"). No i jeszcze profil na [Google+](https://plus.google.com/u/0/communities/117763257839180572219 "Google Plus Profil"). Jestem również obecny na [Twitterze](https://twitter.com/StaryWandal "@StaryWandal")
+Pozostaje jeszcze mój [blog osobisty](https://hothead-hobbyist.blogspot.com "Blog Osobisty na Blogger.com"). No i jeszcze profil na [Google+](https://plus.google.com/u/0/communities/117763257839180572219 "Google Plus Profil"). Jestem również obecny na [Twitterze](https://twitter.com/StaryWandal "@StaryWandal"). Aha, zapomniałbym o [Facebook](https://facebook.com/agrestmen "Paweł Sobótka FunPage at Facebook") -> jest to profil prywatny.
 
