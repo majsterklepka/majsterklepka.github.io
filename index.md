@@ -1,7 +1,9 @@
 ---
 lang: pl
 layout: default
-title: majsterklepka.github.io => Strona Główna 
+title: Strona Główna
+image: fluidicon.png
+excerpt: "Blog osobisty, programowanie, Linux, Radioamatorstwo, Open Source, Makers. Poczuj się wolny, dodaj do zakładek tę stronę i obserwuj moje projekty!"
 ---
 
 
