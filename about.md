@@ -1,7 +1,7 @@
 ---
 lang: en
-layout: default
-title: majsterklepka.github.io => About
+layout: home
+title: About blog Author
 ---
 
 # About

@@ -5,11 +5,11 @@ github_username: majsterklepka
 email: starywandal@onet.pl
 repository: majsterklepka/majsterklepka.github.io
 permalink: pretty
-image: fluidicon.png
+image: /images/fluidicon.png
 
 defaults:
   - scope:
-      path: "assets/image"
+      path: "assets/images"
     values:
       image: true
 
@@ -17,7 +17,7 @@ github:
   repository_url: https://github.com/majsterklepka
 
 favicon: favicon.ico
-fluidicon: fluidicon.png 
+ 
 
 markdown: kramdown
 
