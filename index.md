@@ -2,8 +2,6 @@
 lang: pl
 layout: default
 title: Strona Główna
-image: fluidicon.png
-excerpt: "Blog osobisty, programowanie, Linux, Radioamatorstwo, Open Source, Makers. Poczuj się wolny, dodaj do zakładek tę stronę i obserwuj moje projekty!"
 ---
 
 
@@ -27,5 +25,5 @@ Jest jeszcze jedno repozytorium, projekt jest nierozwijany ale chyba do niego wr
 
 - Repozytorium [bcd](https://github.com/majsterklepka/bcd "Repozytorium bcd") -> [Strona Domowa Projektu](https://majsterklepka.github.io/bcd "Strona Domowa Projektu Bank Cash Deposit w Python") - jest to aplikacja napisana w języku Python i zawiera pewne błędy związane z obsługą ogromnych liczb o wielkiej precyzji, aktualnie jest aplikacją nie rozwijaną.
 
-Pozostaje jeszcze mój [blog osobisty](https://hothead-hobbyist.blogspot.com "Blog Osobisty na Blogger.com"). No i jeszcze profil na [Google+](https://plus.google.com/u/0/communities/117763257839180572219 "Google Plus Profil"). Jestem również obecny na [Twitterze](https://twitter.com/StaryWandal "@StaryWandal"). Aha, zapomniałbym o [Facebook](https://facebook.com/agrestmen "Paweł Sobótka FunPage at Facebook") -> jest to profil prywatny.
+Pozostaje jeszcze mój [blog osobisty](https://hothead-hobbyist.blogspot.com "Blog Osobisty na Blogger.com").  Jestem również obecny na [Twitterze](https://twitter.com/StaryWandal "@StaryWandal"). Aha, zapomniałbym o [Facebook](https://facebook.com/agrestmen "Paweł Sobótka FunPage at Facebook") -> jest to profil prywatny.
 

@@ -5,6 +5,7 @@ github_username: majsterklepka
 email: starywandal@onet.pl
 repository: majsterklepka/majsterklepka.github.io
 permalink: pretty
+image: fluidicon.png
 
 defaults:
   - scope:

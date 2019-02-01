@@ -1,9 +1,9 @@
 <!-- The Author meta propagates the byline in a number of social networks -->
-<meta name="author" content="Paweł Sobótka" />
+<meta name="author" content="Paweł Sobótka (SQ7EQE)" />
 
 <meta property="og:title"
     content="{% if page.title %}
-      {{ page.title | strip_html | strip_newlines | truncate: 160 }}
+      {{ site.title | strip_html | strip_newlines | truncate: 80 }} - {{ page.title | strip_html | strip_newlines | truncate: 80 }}
     {% else %}
       {{ site.title }}
     {% endif %}">
@@ -71,7 +71,7 @@
 
 {% else %}
   <!-- OG data for homepage -->
-  <meta property="og:image" content="" />
+  <meta property="og:image" content="{{site.image}}" />
   <meta property="og:type" content="website" />
   <meta name="twitter:card" content="summary" />
   <meta name="twitter:title" content="{{site.title}}" />
