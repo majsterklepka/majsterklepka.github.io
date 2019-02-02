@@ -318,6 +318,17 @@ section {
       }
     }
   }
+#menu{
+	position: relative;
+	top: 30px;
+	}
+
+#menu li{
+	display: block;
+  }
+#menu ul{
+	padding-bottom: 10px;
+ }
 }
 
 @media print, screen and (max-width: 480px) {
@@ -331,5 +342,15 @@ section {
   }
   nav {
     display: none;
+  }
+
+  #menu {
+	position: relative;
+	top: 30px;
+	}	
+  #menu li{
+	display: block;
+	padding: 5px;
+	margin: 0px;
   }
 }
