@@ -1,5 +1,6 @@
 ---
 lang: pl
 layout: home
-title: Wpisy
+title: Publikacje
 ---
+{% include post.html %}

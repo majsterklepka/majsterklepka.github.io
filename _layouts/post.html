@@ -15,11 +15,11 @@
     <link rel="stylesheet" href="{{ '/assets/css/ie.css' | relative_url }}">
     <![endif]-->
     <meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no">   
+ 
 	<link rel="shortcut icon" type="image/x-icon" href="{{ site.favicon | relative_url }}"> 
-   <link rel="shortcut icon" type="image/x-icon" href="{{ '/assets/favicon.ico' | relative_url }}">
-
+   <link rel="shortcut icon" type="image/x-icon" href="{{ '/assets/favicon.ico' | relative_url }}"> 
+ 
    {% include head.html %}}
-
   </head>
   <body>
       <div id="header">
@@ -37,21 +37,27 @@
 
       <section>
         <div id="title">
-          <h1>{{ site.title | default: site.github.repository_name }}</h1>
-          <p>{{ site.description | default: site.github.project_tagline }}</p>
+          <h1>Post</h1>
+          <p>{{site.description}}</p>
           <hr>
           <span class="credits left">Project maintained by <a href="{{ site.github.owner_url }}">{{ site.github.owner_name }}</a></span>
           <span class="credits right">Hosted on GitHub Pages &mdash; Theme by <a href="https://twitter.com/michigangraham">mattgraham</a></span>
 			 <br/>
-			 {% include nav.html %}  		
+			 {% include nav.html %}
+			 <hr> 		
   		</div>
-        
+       <h1>{{page.title | strip_html | strip_newlines | truncate: 80}}</h1>
+       <p>opublikowano: {{page.date}}<br/>autor: {{page.author}}</p>
+       <hr>
+       
        {{ content }}
 
       </section>
 
     </div>
 
+	{% include footer.html %}
+	
     {% if site.google_analytics %}
       <script type="text/javascript">
         (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){

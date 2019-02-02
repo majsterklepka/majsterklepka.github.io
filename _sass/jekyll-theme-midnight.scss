@@ -231,33 +231,39 @@ dt {
 	text-align: center;
 	background: #434343;
 	border-radius: 15px;
-}
-
-#menu ul{
+	ul{
 	display: block;
 	list-style-type: none;
 	padding: 5px;
-}
-#menu li{
+	}
+	li{
 	display: inline-block;
 	padding-left: 10px;
 	padding-right: 10px;
 	font-size: 20px;	
-}
-#menu ul li a {
+	}
+	ul li a {
 	color: #fff;
 	&:hover {
     		color: #ffeb9b;
 	}
+  }
 }
 
-#footer{
+
+#footer {
+	display: inline-block;
+	width: 100%;
+	min-height: 6px;
+	background: transparent url('../images/hr.gif') center top repeat-x;
+	padding-top: 10px;
+	margin-top: 40px; 
 
 .credits {
       font-size: 12px;
       font-family: Helvetica, Arial, sans-serif;
       font-weight: normal;
-      color: #fff;
+      color: #434343;
       margin-top: 0px;
       margin-bottom: 10px;
 
@@ -277,12 +283,54 @@ section {
   margin: 20px 0;
   margin-top: 70px;
 
+#post-content {
+	width: 100%;
+	text-align: center;
+}		
+.post{
+	cursor: pointer;
+	display: inline-block;
+	width: 620px;
+	border: 2px solid #434343;
+	border-radius: 5px;
+	float: left;
+	padding: 5px 2px;
+	margin: 3px;
+	text-align: center;
+	background: #252525;
+	color: #fff;
+	h3{
+	font-weight: bold;
+	color: #f0e7d5;
+	width: 300px;
+	font-size: 14px;
+	text-align: left;
+	padding: 0 5px;
+	span{
+	font-weight: normal;
+	font-size: 10px;
+	display: block;
+	}
+	}
+	p{
+	font-size: 11px;
+	width: 300px;
+	text-align: justify;
+	padding: 0 5px;
+	}
+	img{
+	float: right;
+	padding-right: 2px;
+	}
+  }	
+
+
   #title {
     border: 0;
     outline: none;
     margin: 0 0 50px 0;
     padding: 0 0 5px 0;
-
+    
     h1 {
       font-family: 'OpenSansLight', "Helvetica Neue", Helvetica, Arial, sans-serif;
       font-weight: normal;
@@ -317,7 +365,6 @@ section {
 
   }
 }
-
 @media print, screen and (max-width: 720px) {
 
   #title {
@@ -354,10 +401,11 @@ section {
       font-size: 12px;
       font-family: Helvetica, Arial, sans-serif;
       font-weight: normal;
-      color: #fff;
+      color: #434343;
       margin-top: 0px;
       margin-bottom: 10px;
       text-align: center;
+      display: block;	
 
       &.left {
 		float:none;
@@ -367,6 +415,15 @@ section {
 		float: none;
         }
   }
+}
+#post-content{
+.post{
+	width: 310px;
+}
+img{
+float: none;
+padding-right: 1px;;
+}
 }
 }
 

@@ -1,6 +1,6 @@
 ---
 lang: en
-layout: home
+layout: about
 title: About blog Author
 ---
 
