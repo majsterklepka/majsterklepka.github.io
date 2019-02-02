@@ -6,7 +6,6 @@ email: starywandal@onet.pl
 repository: majsterklepka/majsterklepka.github.io
 permalink: pretty
 image: /images/fluidicon.png
-url: http://majsterklepka.github.io
 
 defaults:
   - scope:
