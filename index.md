@@ -16,7 +16,6 @@ Jak już wcześniej wspomniałem jestem Koderem, i swoją twórczość udostępn
 
 - Repozytorium [Bank Cash Deposit](https://github.com/majsterklepka/BaCaDe "Repozytorium BaCaDe") -> [Strona Domowa projektu](https://majsterklepka.github.io/BaCaDe "Strona Domowa Projektu BaCaDe"), a tu: [majsterklepka-github-fedora-29-3.noarch.rpm](https://github.com/majsterklepka/majsterklepka.github.io/raw/master/repo/fedora/29/updates/majsterklepka-github-fedora-29-3.noarch.rpm "Instalator Repozytorium"), jest instalator repozytorium zamieszczonego na GitHub.
 - Repozytorium [libiban](https://github.com/majsterklepka/libiban "Repozytorium libiban") - biblioteki testującej poprawność numeru IBAN
-- Repozytorium pitylinux zostało usunięte, przyczyną było zmiana prawa podatkowego w Polsce i rezygnacja z papierowych rozliczeń deklaracji PIT. Od rozliczeń za rok 2018(czyli od 2019 roku) deklaracje PIT-37 a od 2020, pozostałe będą rozliczane wyłącznie przez Administrację Podatkową.
 - Repozytorium [Today's Jobs](https://github.com/majsterklepka/tdsj "Repozytorium tdsj") repozytorium z efektem zwykłej, codziennej pracy
 - Repozytorium [Ham Radio Project](https://github.com/majsterklepka/hrl "Repozytorium hrl") to efekt mojej pracy w zakresie mojego radio-hobby
 - Repozytorium [Carramba Libs](https://github.com/majsterklepka/carramba-libs "Repozytorium Carramba Libs") to projekt z biblioteką Open Source zaprojektowaną do walidacji numerów osobistych, takich jak PESEL, NIP, REGON, IBAN. Biblioteka sprawdza poprawność polskich numerów, co jest przydatne w biznesie.

@@ -270,6 +270,10 @@ dt { color: #F0E7D5; font-family: 'OpenSansSemibold', "Helvetica Neue", Helvetic
 #menu ul li a { color: #fff; }
 #menu ul li a:hover { color: #ffeb9b; }
 
+#footer .credits { font-size: 12px; font-family: Helvetica, Arial, sans-serif; font-weight: normal; color: #fff; margin-top: 0px; margin-bottom: 10px; }
+#footer .credits.left { float: left; }
+#footer .credits.right { float: right; }
+
 section { max-width: 650px; padding: 30px 0px 50px 0px; margin: 20px 0; margin-top: 70px; }
 section #title { border: 0; outline: none; margin: 0 0 50px 0; padding: 0 0 5px 0; }
 section #title h1 { font-family: 'OpenSansLight', "Helvetica Neue", Helvetica, Arial, sans-serif; font-weight: normal; font-size: 40px; text-align: center; line-height: 36px; }
@@ -283,7 +287,10 @@ section #title .credits.right { float: right; }
   #title .credits .right { float: none; display: block; }
   #menu { position: relative; top: 30px; }
   #menu li { display: block; }
-  #menu ul { padding-bottom: 10px; } }
+  #menu ul { padding-bottom: 10px; }
+  #footer .credits { font-size: 12px; font-family: Helvetica, Arial, sans-serif; font-weight: normal; color: #fff; margin-top: 0px; margin-bottom: 10px; text-align: center; }
+  #footer .credits.left { float: none; }
+  #footer .credits.right { float: none; } }
 @media print, screen and (max-width: 480px) { #header { margin-top: -20px; }
   section { margin-top: 40px; }
   nav { display: none; }

@@ -16,6 +16,9 @@
     <![endif]-->
     <meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no">   
  
+	<link rel="shortcut icon" type="image/x-icon" href="{{ site.favicon | relative_url }}"> 
+   <link rel="shortcut icon" type="image/x-icon" href="{{ '/assets/favicon.ico' | relative_url }}"> 
+ 
    {% include head.html %}}
   </head>
   <body>
