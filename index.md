@@ -23,7 +23,7 @@ Jak już wcześniej wspomniałem jestem Koderem, i swoją twórczość udostępn
 
 Jest jeszcze jedno repozytorium, projekt jest nierozwijany ale chyba do niego wrócę, a jest to:
 
-- Repozytorium [bcd](https://github.com/majsterklepka/bcd "Repozytorium bcd") -> [Strona Domowa Projektu](https://majsterklepka.github.io/bcd "Strona Domowa Projektu Bank Cash Deposit w Python") - jest to aplikacja napisana w języku Python i zawiera pewne błędy związane z obsługą ogromnych liczb o wielkiej precyzji, aktualnie jest aplikacją nie rozwijaną.
+- Repozytorium [bcd](https://github.com/majsterklepka/bcd "Repozytorium bcd") -> [Strona Domowa Projektu](https://majsterklepka.github.io/bcd "Strona Domowa Projektu Bank Cash Deposit w Python") - jest to aplikacja napisana w języku Python i zawiera pewne błędy związane z obsługą ogromnych liczb o wielkiej precyzji, aktualnie jest aplikacją nie rozwijana.
 
-Pozostaje jeszcze mój [blog osobisty](https://hothead-hobbyist.blogspot.com "Blog Osobisty na Blogger.com").  Jestem również obecny na [Twitterze](https://twitter.com/StaryWandal "@StaryWandal"). Aha, zapomniałbym o [Facebook](https://facebook.com/agrestmen "Paweł Sobótka FunPage at Facebook") -> jest to profil prywatny.
+Jestem również obecny na [Twitterze](https://twitter.com/StaryWandal "@StaryWandal"). Aha, zapomniałbym o [Facebook](https://facebook.com/agrestmen "Paweł Sobótka FunPage at Facebook") -> jest to profil prywatny.
 

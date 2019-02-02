@@ -1,11 +1,11 @@
 docs_list_title: Navigation
 docs:
 
-- title: Main Page
+- title: Strona Główna
   url: /
 
-- title: About
+- title: O mnie
   url: /about/
 
-- title: Posts
+- title: Wpisy
   url: /posts/	 
