@@ -51,8 +51,6 @@
        <hr>
        
        {{ content }}
-       
-       {% include social-share.html %}
 
       </section>
 
