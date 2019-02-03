@@ -62,20 +62,20 @@
   <meta name="twitter:title" content="{{page.title}}" />
 
 {% if page.image %}
-    <meta property="og:image" content="{{site.url}}{{page.image}}" />
-    <meta name="twitter:image" content="{{site.url}}{{page.image}}" />
+    <meta property="og:image" content="{{site.url}}{{site.baseurl}}{{page.image}}" />
+    <meta name="twitter:image" content="{{site.url}}{{site.baseurl}}{{page.image}}" />
   {% else %}
-    <meta property="og:image" content="{{site.url}}{{site.image}}" />
-    <meta name="twitter:image" content="{{site.url}}{{site.image}}" />
+    <meta property="og:image" content="{{site.url}}{{site.baseurl}}{{site.image}}" />
+    <meta name="twitter:image" content="{{site.url}}{{site.baseurl}}{{site.image}}" />
   {% endif %}
 
 {% else %}
   <!-- OG data for homepage -->
-  <meta property="og:image" content="{{site.url}}{{site.image}}" />
+  <meta property="og:image" content="{{site.url}}{{site.baseurl}}{{site.image}}" />
   <meta property="og:type" content="website" />
   <meta name="twitter:card" content="summary" />
   <meta name="twitter:title" content="{{site.title}}" />
-  <meta name="twitter:image" content="{{site.url}}{{site.image}}" />
+  <meta name="twitter:image" content="{{site.url}}{{site.baseurl}}{{site.image}}" />
 
 {% endif %}
 
