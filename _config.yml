@@ -25,7 +25,9 @@ plugins_dir:
  - github-pages
 
 plugins:
-        - "jekyll-github-metadata"    
+  - jekyll-github-metadata  
+  - jekyll-feed
+  - jekyll-sitemap	  
 
 # Exclude from processing
 
