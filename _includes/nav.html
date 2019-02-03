@@ -1,7 +1,7 @@
 <div id="menu">
 <ul>
    {% for item in site.data.main-menu.docs %}
-      <li><a href="{{ item.url }}" alt="{{ item.title }}">{{ item.title }}</a></li>
+      <li><a href="{{site.url}}{{site.baseurl}}{{ item.url }}" alt="{{ item.title }}">{{ item.title }}</a></li>
    {% endfor %}
 </ul>
 </div>

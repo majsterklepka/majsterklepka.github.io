@@ -1,7 +1,7 @@
 <div id="post-content">
        {% for post in site.posts %} 
-       <div class="post" onclick="location.href='{{site.baseurl}}{{post.url}}'">
-		<img src="{{site.baseurl}}{{post.image}}" alt="{{post.title}}" width="300px" />
+       <div class="post" onclick="location.href='{{site.url}}{{site.baseurl}}{{post.url}}'">
+		<img src="{{site.url}}{{site.baseurl}}{{post.image}}" alt="{{post.title}}" width="300px" />
 		<h3>{{post.title | strip_html | strip_newlines | truncate: 35}}{{if post.date}}<span>opublikowano: {{post.date}}</span></h3>
 		<p>{{post.description | strip_html | truncate: 100}}</p>
 		</div>
