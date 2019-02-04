@@ -1,3 +1,41 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.7.4">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2019-02-03T18:13:59+01:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">Majster Klepka</title><subtitle>Blog osobisty, programowanie, Linux, Radioamatorstwo, Open Source, Makers. Poczuj się wolny, dodaj do zakładek tę stronę i obserwuj moje projekty!</subtitle><entry xml:lang="pl"><title type="html">Przykładowy post</title><link href="http://localhost:4000/2019/02/02/przykladowy-post/" rel="alternate" type="text/html" title="Przykładowy post" /><published>2019-02-02T19:00:00+01:00</published><updated>2019-02-02T19:00:00+01:00</updated><id>http://localhost:4000/2019/02/02/przykladowy-post</id><content type="html" xml:base="http://localhost:4000/2019/02/02/przykladowy-post/">&lt;p&gt;Przykład publikacji(postu) z wykorzystaniem jekyll-site. Temat jest dostosowany do urządzeń mobilnych, umożliwia dzielenie się na portalach społecznościowych.&lt;/p&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.7.4">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2019-02-04T10:28:47+01:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">Majster Klepka</title><subtitle>Blog osobisty, programowanie, Linux, Radioamatorstwo, Open Source, Makers. Poczuj się wolny, dodaj do zakładek tę stronę i obserwuj moje projekty!</subtitle><entry xml:lang="pl"><title type="html">Dioda - teoria i praktyka cz. I</title><link href="http://localhost:4000/2019/02/04/dioda-teoria-i-praktyka-cz-I/" rel="alternate" type="text/html" title="Dioda - teoria i praktyka cz. I" /><published>2019-02-04T10:00:00+01:00</published><updated>2019-02-04T10:00:00+01:00</updated><id>http://localhost:4000/2019/02/04/dioda-teoria-i-praktyka-cz-I</id><content type="html" xml:base="http://localhost:4000/2019/02/04/dioda-teoria-i-praktyka-cz-I/">&lt;p&gt;&lt;img src=&quot;http://localhost:4000/images/diode_poster.png&quot; alt=&quot;diode_poster&quot; title=&quot;Dioda - teoria i praktyka&quot; /&gt;&lt;/p&gt;
+
+&lt;h1 id=&quot;dioda&quot;&gt;Dioda&lt;/h1&gt;
+
+&lt;p&gt;Diody można podzielić ze względu na budowę, a mianowicie:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;lampy elektronowe&lt;/li&gt;
+  &lt;li&gt;diody półprzewodnikowe&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;lampy-elektronowe&quot;&gt;Lampy elektronowe&lt;/h2&gt;
+&lt;p&gt;Praktycznie ten typ diodo wyszedł już z użycia. Można je znowu podzielić ze względu na budowę, na:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;lampowe diody prożniowe&lt;/li&gt;
+  &lt;li&gt;lampowe diody gazowe(gazotron)&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&quot;lampowe-diody-próżniowe&quot;&gt;Lampowe diody próżniowe&lt;/h3&gt;
+&lt;p&gt;Lampowe diody próżniowe składają się z bańki szklanej, w której umieszczono elektrody(anodę i katodę). W bańce panuje wysoka próżnia. Istniejeą trzy rodzaje diod lampowych próżniowych:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;dioda próżniowa żarzona pośrednio&lt;/li&gt;
+  &lt;li&gt;dioda próżniwa żarzona bezpośrednio&lt;/li&gt;
+  &lt;li&gt;dioda próżniowa z dwoma anodami, tzw. duodioda.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Zasada działania lampowej diody próżniwej jest bardzo prosta. Katoda diody jest żarzona za pomocą prądu elektrycznego, i ta, pod wpływem wysokiej temperatury emituje elektrony. To zjawisko nazywa się &lt;em&gt;emisją termoelektronową&lt;/em&gt;. W taki oto sposób, katoda staje się źródłem elektronów a jak wiadomo, ich przepływ jest możliwy wyłącznie w jedną stronę: katoda -&amp;gt; anoda. Zasadniczo lampowe diody próżniowe były produkowane w dwóch rodzajach:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;diody detekcyjne&lt;/li&gt;
+  &lt;li&gt;diody prostownicze&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&quot;lampowe-diody-gazowe&quot;&gt;Lampowe diody gazowe&lt;/h3&gt;
+&lt;p&gt;Ten rodzaj przyrządu elektronowego składa się z dwóch elektrod -&amp;gt; żarzownej katrody i anody, umieszczonych w szklanej bądź metalowej bańce, w której znajduje się mieszanina gazów, bądź jeden rodzaj gazu. Najcześciej stosowano gazy szlachetne, pary rtęci. Gazotrony znalazły swoje zastosowanie w urządzeniach dużej mocy i wysokich napięć. Wyszły już  zużycia.&lt;/p&gt;
+
+&lt;p&gt;cdn.&lt;/p&gt;</content><author><name>Paweł Sobótka</name></author><category term="diode, p-n, semiconductor, tube, vacuum tube" /><summary type="html"></summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:4000/images/diode_poster.png" /></entry><entry xml:lang="pl"><title type="html">Przykładowy post</title><link href="http://localhost:4000/2019/02/02/przykladowy-post/" rel="alternate" type="text/html" title="Przykładowy post" /><published>2019-02-02T19:00:00+01:00</published><updated>2019-02-02T19:00:00+01:00</updated><id>http://localhost:4000/2019/02/02/przykladowy-post</id><content type="html" xml:base="http://localhost:4000/2019/02/02/przykladowy-post/">&lt;p&gt;Przykład publikacji(postu) z wykorzystaniem jekyll-site. Temat jest dostosowany do urządzeń mobilnych, umożliwia dzielenie się na portalach społecznościowych.&lt;/p&gt;
 
 &lt;p&gt;&lt;em&gt;mgr inż. Paweł Sobótka&lt;/em&gt;&lt;/p&gt;</content><author><name>Paweł Sobótka</name></author><summary type="html">Przykład publikacji(postu) z wykorzystaniem jekyll-site. Temat jest dostosowany do urządzeń mobilnych, umożliwia dzielenie się na portalach społecznościowych.</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:4000/images/screen3.png" /></entry></feed>
