@@ -9,7 +9,7 @@ tag: 'diode, p-n, semiconductor, tube, vacuum tube'
 excerpt: Dioda, element półprzewodnikowy wykorzystujący złącze p-n. Dioda to również lampa elektronowa, wykorzystująca zjawisko termoemisji. Lampy elektronowe już wyszły z użycia a powszechnie używane są przyrządy półprzewodnikowe.
 ---
 
-![diode_poster]({{site.url}}{{site.baseurl}}{{page.image}} "Dioda - teoria i praktyka")
+![diode_poster]({{site.url}}{{site.baseurl}}{{page.image}} "{{page.title}}")
 
 # Dioda
 
