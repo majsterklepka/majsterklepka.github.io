@@ -60,7 +60,11 @@
        <hr>
        
        {{ content }}
-                   
+
+       {%if page.comments %}
+       <div class="fb-comments" data-href="{{site.url}}{{site.baseurl}}{{page.url}}" data-width="500" data-numposts="5"></div>
+       {% endif %}
+
        {% include social-share.html %}
 
       </section>

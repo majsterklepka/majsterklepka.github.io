@@ -7,6 +7,7 @@ image: /images/diodes-post-3/diode-poster-3.png
 author: Paweł Sobótka
 tag: 'diode, p-n, semiconductor, schematics symbols, theory'
 excerpt: Złącze p-n. Podstawa wsþółczesnej elektroniki. Od momentu odkrycia jego wykorzystanie przyczyniło się do gwałtownego rozwoju współczesnej techniki. Ciągle ulepszane, rozwijane i badane. Upowszechnienie się krzemu spowodowało gwałtowny boom sprzętu elektronicznego i obniżenie kosztów.
+comments: true
 ---
 
 ![diody poster 3]({{site.url}}{{site.baseurl}}{{page.image}} "{{page.title}}")
@@ -33,6 +34,4 @@ W sytuacji, gdy do złącza zostanie przyłożone napięcie zewnętrzne, to wów
 Jak widać na rysunku, w przypadku złącza p-n, wyróżnia się cztery obszary pracy. Gdy napięcie przyłożone do złącza jest mniejsze od napięcia dyfuzyjnego jest to stan zatkania złącza(złącze praktycznie nie przewodzi), gdy napięcie przyłożone do złącza jest większe od napięcia dyfuzyjnego do złącze jest w stanie otwartym. Gdy złącze jest spolaryzowane w kierunku zaporowym i napięcie jest większe od napięcia przebicia, to złącze również nie przewodzi, gdy napięcie jest mniejsze od napięcia przebicia, to prąd gwałtownie wzrasta i, albo złącze ulega uszkodzeniu(przebicie lawinowe) albo zachodzi tu efekt Zenera. 
 
 cdn.
-
-<div class="fb-comments" data-href="https://majsterklepka.github.io/2019/02/08/diody-teoria-i-praktyka-cz-3/" data-width="500" data-numposts="5"></div>
 
