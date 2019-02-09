@@ -33,3 +33,6 @@ W sytuacji, gdy do złącza zostanie przyłożone napięcie zewnętrzne, to wów
 Jak widać na rysunku, w przypadku złącza p-n, wyróżnia się cztery obszary pracy. Gdy napięcie przyłożone do złącza jest mniejsze od napięcia dyfuzyjnego jest to stan zatkania złącza(złącze praktycznie nie przewodzi), gdy napięcie przyłożone do złącza jest większe od napięcia dyfuzyjnego do złącze jest w stanie otwartym. Gdy złącze jest spolaryzowane w kierunku zaporowym i napięcie jest większe od napięcia przebicia, to złącze również nie przewodzi, gdy napięcie jest mniejsze od napięcia przebicia, to prąd gwałtownie wzrasta i, albo złącze ulega uszkodzeniu(przebicie lawinowe) albo zachodzi tu efekt Zenera. 
 
 cdn.
+
+<div class="fb-comments" data-href="https://majsterklepka.github.io/2019/02/08/diody-teoria-i-praktyka-cz-3/" data-width="500" data-numposts="5"></div>
+
