@@ -40,3 +40,5 @@ Zasada działania lampowej diody próżniwej jest bardzo prosta. Katoda diody je
 Ten rodzaj przyrządu elektronowego składa się z dwóch elektrod -> żarzownej katrody i anody, umieszczonych w szklanej bądź metalowej bańce, w której znajduje się mieszanina gazów, bądź jeden rodzaj gazu. Najcześciej stosowano gazy szlachetne, pary rtęci. Gazotrony znalazły swoje zastosowanie w urządzeniach dużej mocy i wysokich napięć. Wyszły już  zużycia.
 
 cdn.
+
+<div class="fb-comments" data-href="https://majsterklepka.github.io/2019/02/04/dioda-teoria-i-praktyka-cz-I/" data-width="500" data-numposts="5"></div>

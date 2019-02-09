@@ -33,3 +33,5 @@ W rysunku technicznym elektrycznym istnieją trzy symbole lamp próżniowych - d
 |![LED diode]({{site.url}}{{site.baseurl}}/images/diode-post/diode-led.png "Dioda LED")| dioda LED (emitująca światło)|
 
 cdn.
+
+<div class="fb-comments" data-href="https://majsterklepka.github.io/2019/02/05/dioda-teoria-i-praktyka-cz-II/" data-width="500" data-numposts="5"></div>
