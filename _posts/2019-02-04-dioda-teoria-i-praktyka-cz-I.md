@@ -10,8 +10,6 @@ excerpt: Dioda, element półprzewodnikowy wykorzystujący złącze p-n. Dioda t
 comments: true
 ---
 
-![diode_poster]({{site.url}}{{site.baseurl}}{{page.image}} "{{page.title}}")
-
 # Dioda
 
 Diody można podzielić ze względu na budowę, a mianowicie:

@@ -10,8 +10,6 @@ excerpt: Złącze p-n. Podstawa wsþółczesnej elektroniki. Od momentu odkrycia
 comments: true
 ---
 
-![diody poster 3]({{site.url}}{{site.baseurl}}{{page.image}} "{{page.title}}")
-
 # Złącze p-n, budowa, charakterystyka prądowo-napięciowa.
 
 Zacznijmy od podstaw. Zasada działania przyrządu półprzewodnikowego, a takim jest dioda półprzewodnikowa, oparta jest o zasadę działania złącza p-n, jest to podstawa. Co to jest złącze p-n? 

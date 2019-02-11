@@ -10,8 +10,6 @@ excerpt: Symbole ideowe diod. Symbole używane w rysunku technicznym elektryczny
 comments: true
 ---
 
-![diode poster 2]({{site.url}}{{site.baseurl}}{{page.image}} "{{page.title}}")
-
 # Symbole lamp próżniowych
 
 W rysunku technicznym elektrycznym istnieją trzy symbole lamp próżniowych - diod.
