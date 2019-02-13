@@ -20,9 +20,9 @@ Jak już wcześniej wspomniałem jestem Koderem, i swoją twórczość udostępn
 - Repozytorium [Ham Radio Project](https://github.com/majsterklepka/hrl "Repozytorium hrl") to efekt mojej pracy w zakresie mojego radio-hobby
 - Repozytorium [Carramba Libs](https://github.com/majsterklepka/carramba-libs "Repozytorium Carramba Libs") to projekt z biblioteką Open Source zaprojektowaną do walidacji numerów osobistych, takich jak PESEL, NIP, REGON, IBAN. Biblioteka sprawdza poprawność polskich numerów, co jest przydatne w biznesie.
 
-Jest jeszcze jedno repozytorium, projekt jest nierozwijany ale chyba do niego wrócę, a jest to:
-
-- Repozytorium [bcd](https://github.com/majsterklepka/bcd "Repozytorium bcd") -> [Strona Domowa Projektu](https://majsterklepka.github.io/bcd "Strona Domowa Projektu Bank Cash Deposit w Python") - jest to aplikacja napisana w języku Python i zawiera pewne błędy związane z obsługą ogromnych liczb o wielkiej precyzji, aktualnie jest aplikacją nie rozwijana.
-
 Jestem również obecny na [Twitterze](https://twitter.com/StaryWandal "@StaryWandal"). Aha, zapomniałbym o [Facebook](https://facebook.com/agrestmen "Paweł Sobótka FunPage at Facebook") -> jest to profil prywatny.
+
+### Uaktualnienie:
+
+- Repozytorium [bcd](https://github.com/majsterklepka/bcd "Repozytorium bcd") -> [Strona Domowa Projektu](https://majsterklepka.github.io/bcd "Strona Domowa Projektu Bank Cash Deposit w Python") - jest to aplikacja napisana w języku Python i zawiera pewne błędy związane z obsługą ogromnych liczb o wielkiej precyzji => wprowadziłem do kodu pewne poprawki właśnie z obsługą wielkich liczb i aplikacja działa poprawnie. Czyli prawidłowo wylicza sumę kontrolną numeru IBAN.
 
