@@ -27,7 +27,8 @@ plugins_dir:
 plugins:
   - jekyll-github-metadata  
   - jekyll-feed
-  - jekyll-sitemap	  
+  - jekyll-sitemap
+  - jekyll-hashtags	  
 
 # Exclude from processing
 
