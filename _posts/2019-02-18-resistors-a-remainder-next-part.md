@@ -5,10 +5,11 @@ date: 2019-02-18 2:30 CET
 description: Rezystory, czy warto cokolwiek o nich wiedzieć? A może? Zostawić to profesjonalistom! W publikacji, przepis jak odczytać wartość rezystora na podstawie barw! 
 image: /images/resistors/resistor-post-colour-code.png
 author: Paweł Sobótka
-tag: 'electronics, resistors, theory, table of colour strip'
-excerpt: Rezystory, czy warto cokolwiek o nich wiedzieć? A może? Zostawić to profesjonalistom! W publikacji, jak odczytać wartość rezystora na podstawie barw! 
+tags: [electronics, resistors, theory, table-of-colour-strip]
 comments: true
 ---
+
+Rezystory, czy warto cokolwiek o nich wiedzieć? A może? Zostawić to profesjonalistom! W publikacji, jak odczytać wartość rezystora na podstawie barw!
 
 ## Odczyt wartości rezystancji przy pomocy kodu paskowego
 

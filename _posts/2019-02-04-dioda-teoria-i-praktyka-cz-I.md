@@ -5,25 +5,26 @@ date: 2019-02-04 10:00 CET
 description: Dioda, element półprzewodnikowy wykorzystujący złącze p-n. Dioda to również lampa elektronowa, wykorzystująca zjawisko termoemisji.
 image: /images/diode_poster.png
 author: Paweł Sobótka
-tag: 'diode, p-n, semiconductor, tube, vacuum tube'
-excerpt: Dioda, element półprzewodnikowy wykorzystujący złącze p-n. Dioda to również lampa elektronowa, wykorzystująca zjawisko termoemisji. Lampy elektronowe już wyszły z użycia a powszechnie używane są przyrządy półprzewodnikowe.
+tags: [diode, p-n, semiconductor, tube, vacuum-tube]
 comments: true
 ---
 
-# Dioda
+Dioda, element półprzewodnikowy wykorzystujący złącze p-n. Dioda to również lampa elektronowa, wykorzystująca zjawisko termoemisji. Lampy elektronowe już wyszły z użycia a powszechnie używane są przyrządy półprzewodnikowe.
+
+## Dioda
 
 Diody można podzielić ze względu na budowę, a mianowicie:
 
 - lampy elektronowe
 - diody półprzewodnikowe
 
-## Lampy elektronowe
+### Lampy elektronowe
 Praktycznie ten typ diodo wyszedł już z użycia. Można je znowu podzielić ze względu na budowę, na:
 
 - lampowe diody prożniowe
 - lampowe diody gazowe(gazotron)
 
-### Lampowe diody próżniowe
+#### Lampowe diody próżniowe
 Lampowe diody próżniowe składają się z bańki szklanej, w której umieszczono elektrody(anodę i katodę). W bańce panuje wysoka próżnia. Istniejeą trzy rodzaje diod lampowych próżniowych:
 
 - dioda próżniowa żarzona pośrednio
@@ -35,7 +36,7 @@ Zasada działania lampowej diody próżniwej jest bardzo prosta. Katoda diody je
 - diody detekcyjne
 - diody prostownicze 
 
-### Lampowe diody gazowe
+#### Lampowe diody gazowe
 Ten rodzaj przyrządu elektronowego składa się z dwóch elektrod -> żarzownej katrody i anody, umieszczonych w szklanej bądź metalowej bańce, w której znajduje się mieszanina gazów, bądź jeden rodzaj gazu. Najcześciej stosowano gazy szlachetne, pary rtęci. Gazotrony znalazły swoje zastosowanie w urządzeniach dużej mocy i wysokich napięć. Wyszły już  zużycia.
 
 cdn.

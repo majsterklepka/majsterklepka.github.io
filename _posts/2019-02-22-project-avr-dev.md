@@ -5,7 +5,7 @@ date: 2019-02-22 7:30 CET
 description: Płytki rozwojowe, to standard w elektronice, tu przykład płytki opartej o układ f-my Atmel ATtiny2313. 
 image: /images/avrdev/avrdev.png
 author: Paweł Sobótka
-tag: 'electronics, embeded board, microcontrollers, ATtiny2313, hobby'
+tags: [electronics, embeded board, microcontrollers, ATtiny2313, hobby]
 comments: true
 ---
 

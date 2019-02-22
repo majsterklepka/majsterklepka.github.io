@@ -84,7 +84,7 @@
 {% feed_meta %}
 
 {% if site.tags != "" %}
-  {% include tags_collected.html %}
+  {% include collecttags.html %}
 {% endif %}
 
 {% if page.tags %}

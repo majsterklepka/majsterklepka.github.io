@@ -5,10 +5,11 @@ date: 2019-02-17 15:00 CET
 description: Rezystory, czy warto cokolwiek o nich wiedzieć? A może? Zostawić to profesjonalistom! W publikacji, tabela oznakowań barwnych rezystorów oraz szereg E rezystorów! 
 image: /images/resistors/resistor-post.png
 author: Paweł Sobótka
-tag: 'electronics, resistors, theory, table of colour strip'
-excerpt: Rezystory, czy warto cokolwiek o nich wiedzieć? A może? Zostawić to profesjonalistom! W publikacji, tabela oznakowań barwnych rezystorów oraz szereg E rezystorów! 
+tags: [electronics, resistors, theory, table-of-colour-strip]
 comments: true
 ---
+
+Rezystory, czy warto cokolwiek o nich wiedzieć? A może? Zostawić to profesjonalistom! W publikacji, tabela oznakowań barwnych rezystorów oraz szereg E rezystorów!
 
 ## Tabela oznakowań barwnych rezystorów
 

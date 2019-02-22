@@ -5,10 +5,11 @@ date: 2019-02-05 6:00 CET
 description: Symbole ideowe diod. Symbole używane w rysunku technicznym elektrycznym.
 image: /images/diode-poster-2.png
 author: Paweł Sobótka
-tag: 'diode, p-n, semiconductor, tube, vacuum tube, schematics symbols'
-excerpt: Symbole ideowe diod. Symbole używane w rysunku technicznym elektrycznym. W rysunku technicznym elektrycznym używa się różnego rodzaju symboli. W tym poście przedstawione są przyładowe symbole używane w technice.
+tags: [diode, p-n, semiconductor, tube, vacuum-tube, schematics-symbols]
 comments: true
 ---
+
+Symbole ideowe diod. Symbole używane w rysunku technicznym elektrycznym. W rysunku technicznym elektrycznym używa się różnego rodzaju symboli. W tym poście przedstawione są przyładowe symbole używane w technice.
 
 # Symbole lamp próżniowych
 

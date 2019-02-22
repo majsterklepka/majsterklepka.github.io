@@ -5,10 +5,11 @@ date: 2019-02-15 4:00 CET
 description: Diody półprzewodnikowe były i są przełomem w elektronice. Zastąpiły diody lampowe i znacznie obniżyły koszty produkcji sprzętu elektronicznego. Zastosowanie krzemu przy produkcji diod, znacznie zmniejszyło koszty.
 image: /images/diode-poster-4.png
 author: Paweł Sobótka
-tag: 'diode, p-n, semiconductor, theory Si, Ge, GaAs, GaN, junction diodes'
-excerpt: Diody półprzewodnikowe były i są przełomem w elektronice. Zastąpiły diody lampowe i znacznie obniżyły koszty produkcji sprzętu elektronicznego. Zastosowanie przyrządów półprzewodnikowych w sprzęcie użytkowym znacznie przyczyniło się do zmniejszenia energożerności tych urządzeń.
+tags: [diode, p-n, semiconductor, theory, Si, Ge, GaAs, GaN, junction-diodes]
 comments: true
 ---
+
+Diody półprzewodnikowe były i są przełomem w elektronice. Zastąpiły diody lampowe i znacznie obniżyły koszty produkcji sprzętu elektronicznego. Zastosowanie przyrządów półprzewodnikowych w sprzęcie użytkowym znacznie przyczyniło się do zmniejszenia energożerności tych urządzeń.
 
 ## Podział diod
 

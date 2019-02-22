@@ -5,10 +5,12 @@ date: 2019-02-08 3:00 CET
 description: Złącze p-n. Podstawa wsþółczesnej elektroniki. Od momentu odkrycia jego wykorzystanie przyczyniło się do gwałtownego rozwoju wsþółczenej techniki. Ciągle ulepszane, rozwijane i badane. Upowszechnienie się krzemu spowodowało gwałtowny boom sprzętu elektronicznego i obniżenie kosztów. 
 image: /images/diodes-post-3/diode-poster-3.png
 author: Paweł Sobótka
-tag: 'diode, p-n, semiconductor, schematics symbols, theory'
-excerpt: Złącze p-n. Podstawa wsþółczesnej elektroniki. Od momentu odkrycia jego wykorzystanie przyczyniło się do gwałtownego rozwoju współczesnej techniki. Ciągle ulepszane, rozwijane i badane. Upowszechnienie się krzemu spowodowało gwałtowny boom sprzętu elektronicznego i obniżenie kosztów.
+tags: [diode, p-n, semiconductor, schematics, symbols, theory]
+excerpt: 
 comments: true
 ---
+
+Złącze p-n. Podstawa wsþółczesnej elektroniki. Od momentu odkrycia jego wykorzystanie przyczyniło się do gwałtownego rozwoju współczesnej techniki. Ciągle ulepszane, rozwijane i badane. Upowszechnienie się krzemu spowodowało gwałtowny boom sprzętu elektronicznego i obniżenie kosztów.
 
 # Złącze p-n, budowa, charakterystyka prądowo-napięciowa.
 
