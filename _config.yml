@@ -16,7 +16,7 @@ defaults:
 github:
   repository_url: https://github.com/majsterklepka
 
-favicon: favicon.ico
+favicon: favicon.png
 
 markdown: kramdown
 tag_page_layout: tags_page

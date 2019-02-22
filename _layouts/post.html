@@ -16,8 +16,8 @@
     <![endif]-->
     <meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no">   
  
-	<link rel="shortcut icon" type="image/x-icon" href="{{ site.favicon | relative_url }}"> 
-   <link rel="shortcut icon" type="image/x-icon" href="{{site.url}}{{site.baseurl}}{{ '/assets/favicon.ico' | relative_url }}"> 
+	<link rel="shortcut icon" type="image/png" href="{{ site.favicon | relative_url }}"> 
+   <link rel="shortcut icon" type="image/png" href="{{site.url}}{{site.baseurl}}{{ '/assets/favicon.png' | relative_url }}"> 
    {% include head.html %}}
   </head>
   <body>
@@ -55,8 +55,8 @@
 			 {% include nav.html %}
 			 <hr> 		
   		</div>
-       <h1>{{page.title | strip_html | strip_newlines | truncate: 80}}</h1>
-       <p>opublikowano: {{page.date}}<br/>autor: {{page.author}}</p>
+       <h1>{{page.title | strip_html | strip_newlines | truncate: 80}}
+       <p>opublikowano: {{page.date | date_to_string}}<br/>autor: {{page.author}}</p>
        <hr>
 
        {% if page.image %}
