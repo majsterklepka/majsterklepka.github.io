@@ -19,6 +19,11 @@ github:
 favicon: favicon.ico
 
 markdown: kramdown
+tag_page_layout: tags_page
+tag_page_dir: tags
+tag_feed_layout: tags_feed
+tag_feed_dir: tags
+tag_permalink_style: pretty
 
 plugins_dir:
  - github-pages
@@ -27,7 +32,8 @@ plugins:
   - jekyll-github-metadata  
   - jekyll-feed
   - jekyll-sitemap
-  - jekyll-hashtags	  
+  - jekyll-hashtags	
+  - jekyll-tagging  
 
 # Exclude from processing
 

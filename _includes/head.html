@@ -83,10 +83,6 @@
 
 {% feed_meta %}
 
-{% if site.tags != "" %}
-  {% include tags_collected.html %}
-{% endif %}
-
 {% if page.tags %}
 <meta name="keywords" content="{{page.tags | join: ', ' | escape }}">
 {% endif %}
