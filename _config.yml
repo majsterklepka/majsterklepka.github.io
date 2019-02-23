@@ -5,7 +5,9 @@ github_username: majsterklepka
 email: starywandal@onet.pl
 repository: majsterklepka/majsterklepka.github.io
 permalink: pretty
-image: /images/fluidicon.png
+logo: /images/fluidicon.png
+author: Paweł Sobótka
+url: https://majsterklepka.github.io
 
 defaults:
   - scope:
@@ -30,6 +32,20 @@ manifest_lang: pl
 manifest_background_color: white
 manifest_display: standalone
 
+facebook:
+  publisher: https://www.facebook.com/agrestmen
+
+twitter:
+  username: StaryWandal
+  card: summary
+
+social:
+  name: Paweł Sobótka
+  links:
+    - https://www.facebook.com/agrestmen
+    - https://github.com/majsterklepka
+    - https://www.twitter.com/StaryWandal	
+
 plugins_dir:
  - github-pages
 
@@ -39,6 +55,7 @@ plugins:
   - jekyll-sitemap
   - jekyll-hashtags	
   - jekyll-tagging
+  - jekyll-seo-tag
   - jekyll-favicon  
 
 # Exclude from processing

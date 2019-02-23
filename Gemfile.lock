@@ -258,6 +258,7 @@ DEPENDENCIES
   jekyll-feed
   jekyll-github-metadata
   jekyll-hashtags
+  jekyll-seo-tag
   jekyll-sitemap
   jekyll-theme-midnight
   json
