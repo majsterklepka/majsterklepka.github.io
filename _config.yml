@@ -16,7 +16,6 @@ defaults:
 github:
   repository_url: https://github.com/majsterklepka
 
-favicon: favicon.png
 
 markdown: kramdown
 tag_page_layout: tags_page
@@ -24,6 +23,12 @@ tag_page_dir: tags
 tag_feed_layout: tags_feed
 tag_feed_dir: tags
 tag_permalink_style: pretty
+
+manifest_name: Majster Klepka
+manifest_short_name: Majster Klepka 
+manifest_lang: pl
+manifest_background_color: white
+manifest_display: standalone
 
 plugins_dir:
  - github-pages
@@ -33,7 +38,8 @@ plugins:
   - jekyll-feed
   - jekyll-sitemap
   - jekyll-hashtags	
-  - jekyll-tagging  
+  - jekyll-tagging
+  - jekyll-favicon  
 
 # Exclude from processing
 
