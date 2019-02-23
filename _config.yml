@@ -52,8 +52,7 @@ plugins_dir:
 plugins:
   - jekyll-github-metadata  
   - jekyll-feed
-  - jekyll-sitemap
-  - jekyll-hashtags	
+  - jekyll-sitemap	
   - jekyll-tagging
   - jekyll-seo-tag
   - jekyll-favicon  
