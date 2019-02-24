@@ -2,7 +2,7 @@
 lang: en
 layout: about
 title: About blog Author
-image: /images/majsterklepka.jpg
+image: /images/blog-author.png
 author: Paweł Sobótka
 ---
 
