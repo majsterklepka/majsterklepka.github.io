@@ -1,5 +1,5 @@
 ---
-lang: pl
+lang: pl_PL
 layout: about
 title: About a blog Author
 image: /images/blog-author.png

@@ -1,5 +1,5 @@
 ---
-lang: pl
+lang: pl_PL
 layout: home
 title: Publikacje
 image: /images/diode-post-picture.png

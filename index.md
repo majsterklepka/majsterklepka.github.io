@@ -1,5 +1,5 @@
 ---
-lang: pl
+lang: pl_PL
 layout: default
 title: Strona Główna
 image: /images/majsterklepka.jpg
@@ -10,10 +10,11 @@ author: Paweł Sobótka
 # Witam na mojej stronie!
 
 Cześć! Mam na imię Paweł, z zawodu, z pasji jestem..., no właśnie?  
-Radioamatorem, Modelarzem, Bloggerem! Uwielbiam tworzyć, robić coś własnoręcznie. Tworzę Oprogramowanie, przygotowuję projekty, buduję modele dużych rzeczy w mniejszej skali..., tworzę grafikę, muzykę, materiały video..., prowadzę bloga! Pasjonuję się Wolnym Oprogramowaniem i Wolną Twórczością, i..., co? **Właśnie w tej domenie Tworzę!**
+Radioamatorem, Modelarzem, Bloggerem! Uwielbiam tworzyć, robić coś własnoręcznie. Tworzę Oprogramowanie, przygotowuję projekty, buduję modele dużych rzeczy w mniejszej skali..., tworzę grafikę, muzykę, materiały video..., prowadzę bloga! Pasjonuję się Wolnym Oprogramowaniem i Wolną Twórczością, i..., co?  
+**Właśnie w tej domenie Tworzę!**
 
 ## Moje repozytoria kodu
-Jak już wcześniej wspomniałem jestem Coderem, i swoją twórczość udostępniam na Wolnych Licencjach. Poniżej znajduje się lista moich repozytoriów z odnośnikami do stron, jeśli takowe istnieją:
+Jak już wcześniej wspomniałem jestem Coder'em, i swoją twórczość udostępniam na zasadach Wolnych Licencji. Poniżej znajduje się lista moich repozytoriów z odnośnikami do stron domowych projektu, jeśli takowe istnieją:
 
 - Repozytorium [Bank Cash Deposit](https://github.com/majsterklepka/BaCaDe "Repozytorium BaCaDe") -> [Strona Domowa projektu](https://majsterklepka.github.io/BaCaDe "Strona Domowa Projektu BaCaDe"), a tu: [majsterklepka-github-fedora-29-3.noarch.rpm](https://github.com/majsterklepka/majsterklepka.github.io/raw/master/repo/fedora/29/updates/majsterklepka-github-fedora-29-3.noarch.rpm "Instalator Repozytorium"), jest instalator repozytorium zamieszczonego na GitHub.
 - Repozytorium [libiban](https://github.com/majsterklepka/libiban "Repozytorium libiban") - biblioteki testującej poprawność numeru IBAN
