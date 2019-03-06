@@ -1,5 +1,6 @@
 ---
-lang: pl
+lang: pl_PL
+layout: post
 title: Dioda - teoria i praktyka cz. I
 date: 2019-02-04 10:00 CET
 description: Dioda, element półprzewodnikowy wykorzystujący złącze p-n. Dioda to również lampa elektronowa, wykorzystująca zjawisko termoemisji.

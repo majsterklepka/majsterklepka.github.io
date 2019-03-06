@@ -1,5 +1,6 @@
 ---
-lang: pl
+lang: pl_PL
+layout: post
 title: Diody - teoria i praktyka cz. III
 date: 2019-02-08 3:00 CET 
 description: Złącze p-n. Podstawa wsþółczesnej elektroniki. Od momentu odkrycia jego wykorzystanie przyczyniło się do gwałtownego rozwoju wsþółczenej techniki. Ciągle ulepszane, rozwijane i badane. Upowszechnienie się krzemu spowodowało gwałtowny boom sprzętu elektronicznego i obniżenie kosztów. 

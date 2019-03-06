@@ -1,5 +1,6 @@
 ---
-lang: pl
+lang: pl_PL
+layout: post
 title: Mostek Graetza
 date: 2019-02-21 10:00 CET 
 description: Mostek diodowy Graetza, układ złożony z czterech diód a jego zastosoaniem jest prostowanie prądu przemiennego. Jest to mostek prostowniczy, czyli prostownik. W tym wpisie właśnie o mostku Graetza.

@@ -1,5 +1,6 @@
 ---
-lang: pl
+lang: pl_PL
+layout: post
 title: Resistors, a remainder
 date: 2019-02-17 15:00 CET 
 description: Rezystory, czy warto cokolwiek o nich wiedzieć? A może? Zostawić to profesjonalistom! W publikacji, tabela oznakowań barwnych rezystorów oraz szereg E rezystorów! 

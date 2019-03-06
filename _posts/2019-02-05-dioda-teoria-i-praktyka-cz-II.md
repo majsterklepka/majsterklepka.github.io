@@ -1,5 +1,6 @@
 ---
-lang: pl
+lang: pl_PL
+layout: post
 title: Dioda - teoria i praktyka cz. II
 date: 2019-02-05 6:00 CET
 description: Symbole ideowe diod. Symbole używane w rysunku technicznym elektrycznym.

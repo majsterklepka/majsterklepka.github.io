@@ -1,5 +1,6 @@
 ---
-lang: pl
+lang: pl_PL
+layout: post
 title: Resistors, a remainder - next part
 date: 2019-02-18 2:30 CET 
 description: Rezystory, czy warto cokolwiek o nich wiedzieć? A może? Zostawić to profesjonalistom! W publikacji, przepis jak odczytać wartość rezystora na podstawie barw! 

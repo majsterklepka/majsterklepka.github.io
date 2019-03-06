@@ -1,5 +1,6 @@
 ---
-lang: pl
+lang: pl_PL
+layout: post
 title: Projekt AVR Dev
 date: 2019-02-22 7:30 CET 
 description: Płytki rozwojowe, to standard w elektronice, tu przykład płytki opartej o układ f-my Atmel ATtiny2313. 

@@ -1,5 +1,6 @@
 ---
-lang: pl
+lang: pl_PL
+layout: post
 title: Diody - teoria i praktyka cz. IV
 date: 2019-02-15 4:00 CET 
 description: Diody półprzewodnikowe były i są przełomem w elektronice. Zastąpiły diody lampowe i znacznie obniżyły koszty produkcji sprzętu elektronicznego. Zastosowanie krzemu przy produkcji diod, znacznie zmniejszyło koszty.
