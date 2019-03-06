@@ -2,7 +2,7 @@
 lang: pl_PL
 layout: default
 title: Strona Główna
-image: /images/majsterklepka.jpg
+image: /images/logo.jpg
 author: Paweł Sobótka
 ---
 
