@@ -41,6 +41,7 @@ Jak widać, spis elementów jest krótki. Sam wzmacniacz powstał na płytce dru
 
 Rysunek ścieżek drukowanych płytki PCB, od strony elementów, odbicie lustrzane.
 
+- - -
 ![pict. 4]({{site.url}}{{site.baseurl}}/images/tea2025b/tea2025b_amp-B.Cu.svg.png "Płytka PCB ścieżki od strony spodniej, odbicie lustrzane")  
 
 Rysunek ścieżek drukowanych płytki PCB, od strony spodniej, odbicie lustrzane.
@@ -48,14 +49,15 @@ Rysunek ścieżek drukowanych płytki PCB, od strony spodniej, odbicie lustrzane
 ### Rysunki montażowe wzmacniacza audio
 
 ![pict. 5]({{site.url}}{{site.baseurl}}/images/tea2025b/tea2025b_amp-F.Fab.svg.png "Płytka PCB rozmieszczenie elementów na płytce")  
-
+ 
 Płytka PCB rozmieszczenie elementów na płytce.
 
+- - - 
 ![pict. 6]({{site.url}}{{site.baseurl}}/images/tea2025b/tea2025b_amp-PTH-drl_map.ps.png "Płytka PCB szablon wierceń")  
 
 Płytka PCB szablon wierceń.
 
-Wykonanie płytek dwustronnych z metalizacją najlepiej przekazać wyspecjalizowanemu zakładowi a to ze względu na troskę i dbałość o środowisko. Układ nie wymaga szczególnej troski jeśli chodzi o uruchamianie.
+Wykonanie płytek dwustronnych z metalizacją najlepiej przekazać wyspecjalizowanemu zakładowi a to ze względu na troskę i dbałość o środowisko. Układ nie wymaga szczególnej troski jeśli chodzi o uruchamianie. Pliki projektu dostępne są w repozytorium [hrl](https://github.com/majsterklepka/hrl.git "Repozytorium hrl") w folderze [kicad/tea2025b_amp](https://github.com/majsterklepka/hrl/tree/master/kicad/tea2025b_amp "TEA2025B audio amplifier project")
 
 
 
