@@ -57,7 +57,7 @@ Płytka PCB rozmieszczenie elementów na płytce.
 
 Płytka PCB szablon wierceń.
 
-Wykonanie płytek dwustronnych z metalizacją najlepiej przekazać wyspecjalizowanemu zakładowi a to ze względu na troskę i dbałość o środowisko. Układ nie wymaga szczególnej troski jeśli chodzi o uruchamianie. Pliki projektu dostępne są w repozytorium [hrl](https://github.com/majsterklepka/hrl.git "Repozytorium hrl") w folderze [kicad/tea2025b_amp](https://github.com/majsterklepka/hrl/tree/master/kicad/tea2025b_amp "TEA2025B audio amplifier project")
+Wykonanie płytek dwustronnych z metalizacją najlepiej przekazać wyspecjalizowanemu zakładowi a to ze względu na troskę i dbałość o środowisko. Układ nie wymaga szczególnej troski jeśli chodzi o uruchamianie. Pliki projektu dostępne są w repozytorium [majsterklepka/hrl](https://github.com/majsterklepka/hrl.git "Repozytorium hrl") w folderze [kicad/tea2025b_amp](https://github.com/majsterklepka/hrl/tree/master/kicad/tea2025b_amp "TEA2025B audio amplifier project")
 
 
 
