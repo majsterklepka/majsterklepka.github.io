@@ -10,11 +10,11 @@ tags: [scripts, bash, shell, administration, automation]
 comments: true
 ---
 
-Skrypty, temat prosty a zarazem trudny. Każdy, któ chociaż raz zasiadł przed terminalem komputera z Systemem Linux, wie jak umejętność pisania skryptów ułatwia i zmniejsza pracowchłonność wykonywanych zadań.
+Skrypty, temat prosty a zarazem trudny. Każdy, kto chociaż raz zasiadł przed terminalem komputera z Systemem Linux, wie jak umiejętność pisania skryptów ułatwia i zmniejsza pracochłonność wykonywanych zadań.
 
 ## Skrypt
 
-Tu, przykład prostego skryptu autimatyzującego pracę Bloggera. Każdy Blogger wie, że materiały multimedialne zamieszczane na stronach bloga wymagają zabezpieczenia. Takim zabezpieczeniem jest np. umieszczenie w danych EXIF informacji o autorze, tytule i adresie url strony, na której taki plik został opublikowany. Oprócz tego, dobrym rozwiązaniem jest dołączenie napisów do pliku...
+Tu, przykład prostego skryptu automatyzującego pracę Bloggera. Każdy Blogger wie, że materiały multimedialne zamieszczane na stronach bloga wymagają zabezpieczenia. Takim zabezpieczeniem jest np. umieszczenie w danych EXIF informacji o autorze, tytule i adresie URL strony, na której taki plik został opublikowany. Oprócz tego, dobrym rozwiązaniem jest dołączenie napisów do pliku...
 
 ```
 
@@ -36,7 +36,7 @@ font_size_small=$((${font_size}/2));
 y_poz_small=$((${y_poz} - ${font_size}/2 - 3));
 base=$(basename "$1" .png);
 
-echo "Przetważanie $1 ...";
+echo "Przetwarzanie $1 ...";
 
 convert "$1" -gravity southwest -family 'Helvetica' \
        -pointsize "$font_size" -fill white -weight Bold \
@@ -45,7 +45,7 @@ convert "$1" -gravity southwest -family 'Helvetica' \
        -annotate +"$x_poz"+"$y_poz_small" \
        "user.github.io" "$base-conv.png";
 
-echo "Ukończono przetważanie!";
+echo "Ukończono przetwarzanie!";
 echo "zapisano w $base-conv.png";
 
 exit;
@@ -53,4 +53,4 @@ exit;
 
 ```
 
-Powyższy skrypty przetważa obrazki PNG i dodaje do nich pewne dane zawarte w danych EXIF. Wcześniej, takie dane muszą być dodane do pliku, o czym będzie w następnym artykule. Skrypt został specjalnie przygotowany na potrzeby tego bloga.
+Powyższy skrypty przetwarza obrazki PNG i dodaje do nich pewne dane zawarte w danych EXIF. Wcześniej, takie dane muszą być dodane do pliku, o czym będzie w następnym artykule. Skrypt został specjalnie przygotowany na potrzeby tego bloga.
