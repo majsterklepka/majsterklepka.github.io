@@ -69,5 +69,5 @@ Powyższy skrypty przetwarza pliki graficzne(format PNG i JPEG) i dodaje do nich
 
 ### Uwaga
 
-Tag `IPTC:CopyrightNotice` wymaga znaków ze zbioru ASCII
+Tag `IPTC:CopyrightNotice` wymaga znaków ze zbioru ASCII  
 Tag `city` wymaga znaków ze zbioru ASCII 
