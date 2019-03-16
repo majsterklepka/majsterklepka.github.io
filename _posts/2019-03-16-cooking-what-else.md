@@ -3,7 +3,7 @@ lang: pl_PL
 layout: post
 title:  Cooking? what's else?
 date: 2019-03-16 17:00 CET 
-description: Opisanie plików multimedialnych danymi EXIF, IPTC i XMP jest podstawą dbałości o własne interesy. Pod Linuksem wykorzystuje się do tego narzędzie exiftool, tu przykład jego użycia. Przykład na codzień wykorzystywany podczas publikowania artykułów na blogu.
+description: Opisanie plików multimedialnych danymi EXIF, IPTC i XMP jest podstawą dbałości o własne interesy. Pod Linuksem wykorzystuje się do tego narzędzie exiftool, tu przykład jego użycia. Przykład na co dzień wykorzystywany podczas publikowania artykułów na blogu.
 image: /images/bash/screen-16-03-2019-1.jpg
 author: Paweł Sobótka
 tags: [scripts, bash, shell, administration, automation]
@@ -42,7 +42,7 @@ exiftool -lang pl -charset UTF8 \
 -copyright="$copy" \
 -rights="$copy" \
 -xmp-cc:license="http://creativecommons.org/licenses/by-sa/4.0/" \
--city="Szydlowiec" \
+-city="City" \
 -countrycode="PL" -country="POLAND" \
 -MakerNote="some descriptions for exp. where picture was done" \
 -XMP:CreatorAddress="Place of residence" \
@@ -65,4 +65,9 @@ exit 0;
 
 ```
 
-Powyższy skrypty przetwarza pliki graficzne(format PNG i JPEG) i dodaje do nich pewne dane zdefiniowane w skrypcie. Te dane są dodawane do tagów EXIF, IPTC i XMP. Tag `IPTC:CopyrightNotice` wymaga znaków ze zbioru ASCII
+Powyższy skrypty przetwarza pliki graficzne(format PNG i JPEG) i dodaje do nich pewne dane zdefiniowane w skrypcie. Te dane są dodawane do tagów EXIF, IPTC i XMP.
+
+### Uwaga
+
+Tag `IPTC:CopyrightNotice` wymaga znaków ze zbioru ASCII
+Tag `city` wymaga znaków ze zbioru ASCII 
