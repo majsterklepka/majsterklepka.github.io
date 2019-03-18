@@ -5,16 +5,37 @@
 
 #previous {
     float:left;
-    width:80px;
 }
 
 #page_number {
     margin: 0 auto;
+    text-align: center;
     width: 150px;
 }
 
 #next {
+    float:right;	
+}
+
+@media print, screen and (max-width: 720px){
+
+#paginator {
+    width:100%;
+    text-align: center;
+}
+
+#previous {
+    float:left;
+}
+
+#page_number {
+    margin: 0 auto;
+    text-align: center;	
+    width: 110px;
+}
+
+#next {
     float:right;
-    width:80px;
-	
+}
+
 }
