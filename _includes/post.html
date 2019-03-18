@@ -1,5 +1,5 @@
 <div id="post-content">
-       {% for post in site.posts %} 
+       {% for post in paginator.posts %} 
        <div class="post" onclick="location.href='{{site.url}}{{site.baseurl}}{{post.url}}'" title="{{post.title}}">
 		<img src="{{site.url}}{{site.baseurl}}{{post.image}}" alt="{{post.title}}" width="300px" />
 		<h3>{{post.title | strip_html | strip_newlines | truncate: 60}}{{if post.date}}<span>opublikowano: {{post.date | date_to_string}}</span>{{endif}}</h3>
@@ -7,4 +7,22 @@
 		{%if post.tags %}<p style="font-style: italic;color:#BFBFBF; text-align: left;">{{post.tags | join: ', '}}{%endif%}</p>
 		</div>
 		{% endfor %}
+</div>
+
+<div class="pagination">
+  {% if paginator.previous_page %}
+    <a href="{{ paginator.previous_page_path }}" class="previous">
+      Poprzednia&nbsp;
+    </a>
+  {% else %}
+    <span class="previous">Poprzednia&nbsp;</span>
+  {% endif %}
+  <span class="page_number ">
+    | Strona: {{ paginator.page }} z {{ paginator.total_pages }} |
+  </span>
+  {% if paginator.next_page %}
+    <a href="{{ paginator.next_page_path }}" class="next">&nbsp;Następna</a>
+  {% else %}
+    <span class="next ">&nbsp;Następna</span>
+  {% endif %}
 </div>

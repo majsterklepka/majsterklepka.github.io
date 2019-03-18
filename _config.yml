@@ -18,6 +18,8 @@ defaults:
 github:
   repository_url: https://github.com/majsterklepka
 
+paginate: 5
+paginate_path: "/home/page:num/"
 
 markdown: kramdown
 tag_page_layout: tags_page
@@ -56,6 +58,7 @@ plugins:
   - jekyll-tagging
   - jekyll-seo-tag
   - jekyll-favicon  
+  - jekyll-paginate
 
 # Exclude from processing
 
