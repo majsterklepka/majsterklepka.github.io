@@ -3,14 +3,14 @@ lang: pl_PL
 layout: post
 title:  Diabethes
 date: 2019-03-18 3:00 CET 
-description: Każdy kto chociaż raz zetknął się z cukrzycą, wie jak ważne dla zdrowia i życia Pacjenta jest regularne wykonywanie badań. Parametr HbA1C jerst ważnym wskaźnikiem i służy do oceny postępów leczenia.
+description: Każdy kto chociaż raz zetknął się z cukrzycą, wie jak ważne dla zdrowia i życia Pacjenta jest regularne wykonywanie badań. Parametr HbA1C jest ważnym wskaźnikiem i służy do oceny postępów leczenia.
 image: /images/diab/diab2.png
 author: Paweł Sobótka
 tags: [C, tools, programming]
 comments: true
 ---
 
-Małe programy zawsze nie wychodzą z mody. Tu przykład aplikacji wyliczjącej średni, trzymiesięczny poziom glikemii. Aplikacja napisana została w języku C.
+Małe programy zawsze nie wychodzą z mody. Tu przykład aplikacji wyliczającej średni, trzymiesięczny poziom glikemii. Aplikacja napisana została w języku C.
 
 [main.c:](https://github.com/majsterklepka/tdsj/blob/master/glikemia/main.c "main.c file")
 ```
@@ -51,7 +51,7 @@ int main(int argc, char *argv[]) {
 
 ```
 
-Krótki program, dosłownie kilka liniejek kodu. Program przelicza HbA1C z wartości podanej w procentach na wartość podaną w mg/dL. Czasem takie przeliczenie przyczynia się do tego, że otrzymany wynik jest bardziej przystępny i znacznie łatwiej można się zorientować w postępie leczenia. 
+Krótki program, dosłownie kilka linijek kodu. Program przelicza HbA1C z wartości podanej w procentach na wartość podaną w mg/dL. Czasem takie przeliczenie przyczynia się do tego, że otrzymany wynik jest bardziej przystępny i znacznie łatwiej można się zorientować w postępie leczenia. 
 
 ### Budowanie programu
 
