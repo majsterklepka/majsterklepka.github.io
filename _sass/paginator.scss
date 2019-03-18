@@ -1,11 +1,20 @@
-.paginator{
-height: auto;
-width: 100px;
+#paginator {
+    width:100%;
+    text-align: center;
 }
-.previous{
+
+#previous {
+    float:left;
+    width:80px;
 }
-.page_number{
-font-style: bold;
+
+#page_number {
+    margin: 0 auto;
+    width: 150px;
 }
-.next{
+
+#next {
+    float:right;
+    width:80px;
+	
 }

@@ -9,20 +9,20 @@
 		{% endfor %}
 </div>
 
-<div class="pagination">
+<div id="pagination">
   {% if paginator.previous_page %}
-    <a href="{{ paginator.previous_page_path }}" class="previous">
+   <div id="previous"> <a href="{{ paginator.previous_page_path }}">
       Poprzednia&nbsp;
-    </a>
+    </a></div>
   {% else %}
-    <span class="previous">Poprzednia&nbsp;</span>
+    <div id="previous">Poprzednia&nbsp;</div>
   {% endif %}
-  <span class="page_number ">
-    | Strona: {{ paginator.page }} z {{ paginator.total_pages }} |
-  </span>
   {% if paginator.next_page %}
-    <a href="{{ paginator.next_page_path }}" class="next">&nbsp;Następna</a>
+    <div id="next"><a href="{{ paginator.next_page_path }}">&nbsp;Następna</a></div>
   {% else %}
-    <span class="next ">&nbsp;Następna</span>
+    <div id="next">&nbsp;Następna</div>
   {% endif %}
+   <div id="page_number">
+    | Strona: {{ paginator.page }} z {{ paginator.total_pages }} |
+  </div>
 </div>
