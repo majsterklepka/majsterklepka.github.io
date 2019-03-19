@@ -1,7 +1,7 @@
 ---
 lang: pl_PL
 layout: about
-title: About a blog Author
+title: O mnie... Autorze.
 image: /images/blog-author.png
 author: Paweł Sobótka
 ---
@@ -12,6 +12,9 @@ Mam na imię Paweł, jestem Radioamatorem, Modelarzem i Bloggerem. Można równi
 Radioamatorstwem, Modelarstwem zacząłem się jeszcze w przedszkolu a to za sprawą nieżyjącego już Ojca. Teraz w erze Open Source, wszystko staje się łatwiejsze i prostsze, nie ukrywając również, że znacznie tańsze niż naście lat wstecz. Tworząc z wykorzystaniem Wolnych Licencji, nie muszę się martwić, że ktoś skradnie mi utwór, bo po prostu, trzeba się znać. Umiem pracować w zespole, jak i indywidualnie.
 
 Tworzę z Sercem, dla Serca i od Serca. Tworzę z pasją i właśnie o tym jest ten Blog. Nie ukrywam, że robię to, po to, aby zarobić, zresztą o tym mówią Wolne Licencje, które za utwór, każą wynagradzać autora a nie tego, kto sobie przypisał autorstwo...
+
+**PS**  
+_Posiadam ukończone pełne, dwustopniowe studia wyższe z zakresu fizyki technicznej. Jestem Inżynierem i Naukowcem z wieloletnim doświadczeniem, stażem i praktyką. W zakresie posiadanego wykształcenia posiadam wszystkie uprawnienia do wykonywania zawodu... Od lat pracuję jako Indywidualny Twórca, korzystając z pełni praw i przywilejów wynikających ze stosownych ustaw i przepisów. Jestem Abstynentem, nie palę, nie stosuję narkotyków ani innych wynalazków._
 
 _Paweł Sobótka_ (**SQ7EQE**)  
 Radioamator, Modelarz, Blogger
