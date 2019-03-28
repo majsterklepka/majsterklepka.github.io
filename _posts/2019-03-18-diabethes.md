@@ -13,7 +13,7 @@ comments: true
 Małe programy zawsze nie wychodzą z mody. Tu przykład aplikacji wyliczającej średni, trzymiesięczny poziom glikemii. Aplikacja napisana została w języku C.
 
 [main.c:](https://github.com/majsterklepka/tdsj/blob/master/glikemia/main.c "main.c file")
-```
+```c
 #include <stdlib.h>
 #include <locale.h>
 #include <stdio.h>
