@@ -7,6 +7,7 @@ description: IBAN - International Bank Account Number. System numerów rachunkó
 image: /images/iban/iban2.png
 author: Paweł Sobótka
 tags: [C, tools, programming, algorithms, promotions]
+comments: true
 ---
 
 {{page.description}}

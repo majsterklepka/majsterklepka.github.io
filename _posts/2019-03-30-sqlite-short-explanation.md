@@ -7,6 +7,7 @@ description: SQLite, to bardzo popularna baza danych, wykorzystywana nawet na ur
 image: /images/sqlite3/sqlite3.png
 author: Paweł Sobótka
 tags: [C, tools, programming, algorithms, SQLite3, c-api]
+comments: true
 ---
 
 {{page.description}}
