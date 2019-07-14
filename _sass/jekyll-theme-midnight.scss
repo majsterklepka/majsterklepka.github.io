@@ -376,10 +376,11 @@ section {
 
   #title {
     .credits {
+      position: relative;
       display: block;
       width: 100%;
       text-align: center;
-      margin-top: 0px;
+      top: 10px;
 
       .left {
         float: none;
@@ -399,7 +400,7 @@ section {
   }
 #menu{
 	position: relative;
-	top: 30px;
+	top: 10px;
 	li{
 	display: block;
   	}
@@ -443,11 +444,15 @@ padding-right: 1px;;
 @media print, screen and (max-width: 480px) {
 
  #title{
+ 	.credits{
+ 	position: relative;
+ 	top: 10px;}
+	
 	img {
-    position: relative;
-    top: 20px;
-    display: block;
-    } 
+    	position: relative;
+    	top: 20px;
+    	display: block;
+    	} 
  }
 
   #header {
@@ -463,7 +468,7 @@ padding-right: 1px;;
 
  #menu {
 	position: relative;
-	top: 30px;
+	top: 10px;
 	li{
 	display: block;
 	padding: 5px;
