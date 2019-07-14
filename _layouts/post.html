@@ -47,23 +47,24 @@
 
       <section>
         <div id="title">
-          <h1>Post</h1>
-          <p>{{site.description}}</p>
-          <hr>
-          <span class="credits left">Project maintained by <a href="{{ site.github.owner_url }}">{{ site.github.owner_name }}</a></span>
-          <span class="credits right">Hosted on GitHub Pages &mdash; Theme by <a href="https://twitter.com/michigangraham">mattgraham</a></span>
-			 <br/>
-			 {% include nav.html %}
-			 <hr> 		
-  		</div>
-       <h1>{{page.title | strip_html | strip_newlines | truncate: 80}}</h1>
-       <p>opublikowano: {{page.date | date_to_string}}<br/>autor: {{page.author}}</p>
-       <hr>
+        {% include nav.html %}
+		  <span class="credits left">Project maintained by <a href="{{ site.github.owner_url }}">{{ site.github.owner_name }}</a></span>
+        <span class="credits right">Hosted on GitHub Pages &mdash; Theme by <a href="https://twitter.com/michigangraham">mattgraham</a></span>
+		  <br/>
+			 
+         {% if page.image %}
+       	<img src="{{site.url}}{{site.baseurl}}{{page.image}}" alt="page picture" title="{{page.title}}">
+		  	{% endif %}
 
-       {% if page.image %}
-       <img src="{{site.url}}{{site.baseurl}}{{page.image}}" alt="page picture" title="{{page.title}}">
-       {% endif %}
-       
+		  	{% if page.description %}
+			<p class="desc">{{page.description}}</p>
+			{% endif %} 
+		  	   	
+       	</div>
+		<h1>{{page.title | strip_html | strip_newlines | truncate: 80}}</h1>
+      	<p>opublikowano: {{page.date | date_to_string}}<br/>autor: {{page.author}}</p>
+      <hr>
+
        {{ content }}
 
        {%if page.comments %}

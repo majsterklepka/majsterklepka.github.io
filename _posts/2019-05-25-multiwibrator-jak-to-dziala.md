@@ -10,8 +10,6 @@ tags: [electronics, component, theory]
 comments: true
 ---
 
-{{page.description}}
-
 ## Multiwibrator
 
 Multiwibrator jest przykładem generatora relaksacyjnego. Jest to układ astabilny. Nie będę tu opisywał zasady działania, bo można ją znaleźć np. na [Wikipedii](https://pl.wikipedia.org/wiki/Multiwibrator "Multiwibrator"). Przedstawiam wykonaną prze ze mnie symulację układu, wykonaną za pomocą aplikacji [ngspice](http://ngspice.sourceforge.net/ "ngspice"). Schemat układu:

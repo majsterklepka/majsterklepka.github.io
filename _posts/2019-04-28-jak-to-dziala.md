@@ -10,8 +10,6 @@ tags: [C, tools, programming, Eclipse, IDE]
 comments: true
 ---
 
-{{page.description}}
-
 ## IDE Eclipse
 
 **I**ntegrated **D**eveloped **E**nvironment - zintegrowane środowisko programistyczne, jest to narzędzie, kombajn storzony tylko po to(jak niektórzy twierdzą), aby mocno zdenerwować Programistów. Tak naprawdę, to bardzo użyteczne narzędzie, ze zbioru aplikacji użytkowych. Bardzo popularnym przykładem tego typu narzędzia jest [IDE Eclipse](https://www.eclispe.org "IDE Eclipse"). Co to jest tak naprawdę, IDE Eclipse ... ? Stworzone przez Programistów, dla Programistów, skalowalne, rozszerzalne i wszechstronnie konfigurowalne ... no i? Odrobinę za ciężkie środowisko do tworzenia aplikacji, chyba w każdym języku programowania. Standardowo wchodzące w skład praktycznie każdej dystrybucji systemu [#Linux]( {{site.url}}{{site.baseurl}}{% link tags/linux.md %} ).

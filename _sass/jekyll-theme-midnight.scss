@@ -330,7 +330,7 @@ section {
   #title {
     border: 0;
     outline: none;
-    margin: 0 0 50px 0;
+    margin: 0 0 10px 0;
     padding: 0 0 5px 0;
     
     h1 {
@@ -348,13 +348,18 @@ section {
       font-size: 18px;
       text-align: center;
     }
+    .desc {
+    font-size: 16px;
+    font-style: italic;
+    text-align: left;
+    }
 
     .credits {
       font-size: 11px;
       font-family: 'OpenSansRegular', "Helvetica Neue", Helvetica, Arial, sans-serif;
       font-weight: normal;
       color: #696969;
-      margin-top: -10px;
+      margin-top: 0px;
 
       &.left {
         float: left;
@@ -373,8 +378,8 @@ section {
     .credits {
       display: block;
       width: 100%;
-      line-height: 30px;
       text-align: center;
+      margin-top: 0px;
 
       .left {
         float: none;
@@ -385,6 +390,11 @@ section {
         float: none;
         display: block;
       }
+    }
+    img {
+    position: relative;
+    top: 20px;
+    display: block;
     }
   }
 #menu{
@@ -431,6 +441,14 @@ padding-right: 1px;;
 
 
 @media print, screen and (max-width: 480px) {
+
+ #title{
+	img {
+    position: relative;
+    top: 20px;
+    display: block;
+    } 
+ }
 
   #header {
     margin-top: -20px;

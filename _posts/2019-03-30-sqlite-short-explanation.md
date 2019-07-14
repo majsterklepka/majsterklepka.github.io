@@ -10,8 +10,6 @@ tags: [C, tools, programming, algorithms, SQLite3, c-api]
 comments: true
 ---
 
-{{page.description}}
-
 ## SQLite
 
 Każdy, kto zetknął się z programowaniem, musi wreszcie zetknąć się z problemem baz danych. SQLite, jest motorem baz danych, jest oprogramowaniem Open Source i jest udostępniany na zasadach Public Domain. jest bardzo popularnym narzędziem, a więc? Jak go ugryźć?

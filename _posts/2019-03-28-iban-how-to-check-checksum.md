@@ -10,8 +10,6 @@ tags: [C, tools, programming, algorithms, promotions]
 comments: true
 ---
 
-{{page.description}}
-
 ## IBAN ...
 
 No właśnie, IBAN ... w Polsce ten system obowiązuje od końca lat 90-tych. W zależności od kraju, jego długość jest różna, ale zasada i algorytm jest taki sam. Przyjęty w Polsce numer rachunku bankowego według standardu IBAN ma długość 28 znaków, 26 to cyfry, dwa znaki to oznaczenie, kod kraju(PL). sam algorytm jest bardzo prosty, polega na wyliczeniu sumy modulo 97 z długiego numeru, liczby całkowitej bez znaku ... najpierw trzeba przygotować ten numer.
