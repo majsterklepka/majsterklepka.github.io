@@ -288,9 +288,18 @@ section {
 #post-content {
 	width: 100%;
 	text-align: center;
+	a	{
+	color:#e8e8e8;
+	}
+	a:visited{
+	color: green;	
+	}
+	a:hover{
+	color: #ffeb9b;
+	}
+	
 }		
 .post{
-	cursor: pointer;
 	display: inline-block;
 	width: 620px;
 	border: 2px solid #434343;
@@ -299,7 +308,7 @@ section {
 	padding: 5px 2px;
 	margin: 3px;
 	text-align: center;
-	background: #252525;
+	background: #545454;
 	color: #fff;
 	h3{
 	font-weight: bold;
@@ -323,6 +332,7 @@ section {
 	img{
 	float: right;
 	padding-right: 2px;
+	border: 1px solid black;
 	}
   }	
 
@@ -400,7 +410,7 @@ section {
   }
 #menu{
 	position: relative;
-	top: 10px;
+	top: 30px;
 	li{
 	display: block;
   	}
@@ -446,7 +456,8 @@ padding-right: 1px;;
  #title{
  	.credits{
  	position: relative;
- 	top: 10px;}
+ 	top: 10px;
+ 	}
 	
 	img {
     	position: relative;
@@ -468,7 +479,7 @@ padding-right: 1px;;
 
  #menu {
 	position: relative;
-	top: 10px;
+	top: 30px;
 	li{
 	display: block;
 	padding: 5px;
