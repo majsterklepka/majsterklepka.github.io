@@ -18,9 +18,9 @@ Poniżej dla przypomnienia układ pinów złącza Centronics(LPT):
 
 ![picture 2]({{site.url}}{{site.baseurl}}/images/programmer/centronics_pinout.png "Układ pinów złącza 'Centronics' (LPT) - drukarkowego")
 
-A tu, materiały z GitHub'a :
+A tu, materiały z GitHub'a : [Programmer for AVR](https://github.com/majsterklepka/hrl/tree/master/kicad/programmer "MajsterKlepka GitHub Account")
 
-<iframe src="http://github.com/majsterklepka/hrl/tree/master/kicad/programmer" width="100%" ></iframe>
+
 
 Aha! Zapomniałbym o układzie płytki drukowanej! Oto ona:
 
