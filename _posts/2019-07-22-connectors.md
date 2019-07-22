@@ -2,7 +2,7 @@
 lang: pl_PL
 layout: post
 title:  Connectors.
-date: 2019-07-22 05:00 UTC 
+date: 2019-07-22 03:00 UTC 
 description: Złącza, porty ... Każdy przecież komputer posiada złącza peryferyjne i to właśnie te złącza wykorzystano przy konstruowaniu programatorów. RS232, Centronics, LPT, czy nawet złącze AVR-ISP są na tyle popularne i zapomniane a jakże są użyteczne w pracowni Radioamatora.
 image: /images/programmer/connectors.png
 author: Paweł Sobótka
