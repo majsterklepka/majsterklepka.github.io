@@ -3,7 +3,7 @@ lang: pl_PL
 layout: post
 title:  Connectors.
 date: 2019-07-22 05:00 UTC 
-description: Złącza, porty ... Każdy przecież komputer posiada złącza peryferyjne i to właśnie te złącza wykorzystano przy konstruowaniu programatorów. RS232, Centronics, LPT, czy nawet złącze AVR-ISP są na tyle popularne i zapomniane a jakże są użyteczne w parcowni Radioamatora.
+description: Złącza, porty ... Każdy przecież komputer posiada złącza peryferyjne i to właśnie te złącza wykorzystano przy konstruowaniu programatorów. RS232, Centronics, LPT, czy nawet złącze AVR-ISP są na tyle popularne i zapomniane a jakże są użyteczne w pracowni Radioamatora.
 image: /images/programmer/connectors.png
 author: Paweł Sobótka
 tags: [electronics, component, avr, programmer,rs232, centronics, avr-isp]
@@ -20,7 +20,7 @@ chyba najstarsze i najbardziej popularne złącze, interfejs w komputerze. Każd
 
 ## RS232
 
-port szeregowy, nadal powszechnie używany w technice komputerowej, powszechnie używany w biznesie(drukarki fiskalne, terminale kasowe, skanery kasowe, wagi). W pracowni Radioamatora ma prównie powszechnei zastosowanie, programatory, akwizycja danych, LAN
+port szeregowy, nadal powszechnie używany w technice komputerowej, powszechnie używany w biznesie(drukarki fiskalne, terminale kasowe, skanery kasowe, wagi). W pracowni Radioamatora ma równie powszechne zastosowanie, programatory, akwizycja danych, LAN
 
 ![picture 2]({{site.url}}{{site.baseurl}}/images/programmer/rs232_db9_pinout.png "Układ pinów złącza RS232 - szeregowego")
 
@@ -28,11 +28,11 @@ no i wreszcie, temat cyklu:
 
 ## AVR-ISP
 
-Zaprojektowny na potrzeby swoich mikrokontrolerów, przez firmę Atmel port, występujący w dwóch układach, tu moja wersja oparta o projekt programatora USBasp ...
+Zaprojektowany na potrzeby swoich mikrokontrolerów, przez firmę Atmel port, występujący w dwóch układach, tu moja wersja oparta o projekt programatora USB-asp ...
 
 ![picture 3]({{site.url}}{{site.baseurl}}/images/programmer/avr-isp.png "Układ pinów złącza AVR-ISP - złącza do programowania układów AVR")
 
-Nie jest to proste i przejrzyste, zwłascza gdy jest w jednym miejscu??!!
+Nie jest to proste i przejrzyste, zwłaszcza gdy jest w jednym miejscu??!!
 
 To na razie tyle! Do zobaczenia!
 
