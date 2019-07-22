@@ -24,7 +24,7 @@ A tu, materiały z GitHub'a : [Programmer for AVR](https://github.com/majsterkle
 
 Aha! Zapomniałbym o układzie płytki drukowanej! Oto ona:
 
-![]({{site.url}}{{site.baseurl}}/images/programmer/bsd_programmer-brd.svg.png "Układ płytki drukowanej")
+![picture 3]({{site.url}}{{site.baseurl}}/images/programmer/bsd_programmer-brd.svg.png "Układ płytki drukowanej")
 
 No i oczywiście, użycie avrdude z wykorzystaniem tego własnie programatora:
 ```
