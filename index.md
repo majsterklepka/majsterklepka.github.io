@@ -16,7 +16,7 @@ Radioamatorem, Modelarzem, Bloggerem! Uwielbiam tworzyć, robić coś własnorę
 ## Moje repozytoria kodu
 Jak już wcześniej wspomniałem jestem Coder'em, i swoją twórczość udostępniam na zasadach Wolnych Licencji. Poniżej znajduje się lista moich repozytoriów z odnośnikami do stron domowych projektu, jeśli takowe istnieją:
 
-- Repozytorium [Bank Cash Deposit](https://github.com/majsterklepka/BaCaDe "Repozytorium BaCaDe") -> [Strona Domowa projektu](https://majsterklepka.github.io/BaCaDe "Strona Domowa Projektu BaCaDe"), a tu: [majsterklepka-github-fedora-29-3.noarch.rpm](https://github.com/majsterklepka/majsterklepka.github.io/raw/master/repo/fedora/29/updates/majsterklepka-github-fedora-29-3.noarch.rpm "Instalator Repozytorium"), jest instalator repozytorium zamieszczonego na GitHub.
+- Repozytorium [Bank Cash Deposit](https://github.com/majsterklepka/BaCaDe "Repozytorium BaCaDe") -> [Strona Domowa projektu](https://majsterklepka.github.io/BaCaDe "Strona Domowa Projektu BaCaDe"), a tu: [majsterklepka-github-fedora-30-1.noarch.rpm](https://github.com/majsterklepka/majsterklepka.github.io/raw/master/repo/fedora/30/x86_64/majsterklepka-github-fedora-30-1.noarch.rpm "Instalator Repozytorium"), jest instalator repozytorium zamieszczonego na GitHub.
 - Repozytorium [libiban](https://github.com/majsterklepka/libiban "Repozytorium libiban") - biblioteki testującej poprawność numeru IBAN
 - Repozytorium [Today's Jobs](https://github.com/majsterklepka/tdsj "Repozytorium tdsj") repozytorium z efektem zwykłej, codziennej pracy
 - Repozytorium [Ham Radio Project](https://github.com/majsterklepka/hrl "Repozytorium hrl") to efekt mojej pracy w zakresie mojego radio-hobby
