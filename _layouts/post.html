@@ -62,10 +62,10 @@
 		  	   	
        	</div>
       {%if page.tags %}
-      <p style="font-style: italic;color:#BFBFBF; text-align: left;">
+      <p style="text-align: left;">
 		{% for tag in page.tags %}
     	{% capture tag_name %}{{ tag }}{% endcapture %}
-    	<a href="{{site.url}}{{site.baseurl}}/tags/{{ tag_name }}">#{{ tag_name }},&nbsp;</a>
+    	<a href="{{site.url}}{{site.baseurl}}/tags/{{ tag_name }}" style="color: #1E90FF">#{{ tag_name }}</a>&nbsp;
   		{% endfor %}
 		{%endif%}</p>
 		<h1>{{page.title | strip_html | strip_newlines | truncate: 80}}</h1>
