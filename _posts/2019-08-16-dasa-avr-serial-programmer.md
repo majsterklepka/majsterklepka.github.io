@@ -10,7 +10,7 @@ tags: [electronics, component, avr, programmer, bsd, dasa, dasa3, usbasp]
 comments: true
 ---
 
-Programator 'dasa' (device avr serial adapter) to chyba jeden z prostszych układów. Wykorzystuje on złącze RS232 i kilka elementów dyskretnych. Obsługiwany jest prze program AVR Dude (avrdude) i co jest chyba oczywiste, działa pod Linuksem. Poniżej przedstawiam schemat ideowy. Jest on zgodnie z opisem, zaczerpnięty z adresu(publikacji) [RS232_AVR_programmer](http://hackerschicken.eu/electronics/RS232_AVR_programmer.pdf "programatory wykorzystujące złącze RS232, publikacja elektroniczna"), opracowanym przeze mnie(w publikacji schematy są odrobinę nieczytelne). Sam układ można zbudować na płytce prototypowej, nie ma konieczności przygotowywania płytki drukowanej. Do programowania wymagany jest jeden wolny port RS232 w komputerze, który można przygotować np. przy pomocy układów FTDI np. FT232RL -> sam ten układ również może służyć za programator i również jest obsługiwany przez oprogramowanie AVR Dude dostępne nie tylko pod Linuksem.
+Programator 'dasa' (device avr serial adapter) to chyba jeden z prostszych układów. Wykorzystuje on złącze RS232 i kilka elementów dyskretnych. Obsługiwany jest prze program [AVRDUDE](https://www.nongnu.org/avrdude/ "https://www.nongnu.org/avrdude/") (avrdude) i co jest chyba oczywiste, działa pod Linuksem. Poniżej przedstawiam schemat ideowy. Jest on zgodnie z opisem, zaczerpnięty z adresu(publikacji) [RS232_AVR_programmer](http://hackerschicken.eu/electronics/RS232_AVR_programmer.pdf "programatory wykorzystujące złącze RS232, publikacja elektroniczna"), opracowanym przeze mnie(w publikacji schematy są odrobinę nieczytelne). Sam układ można zbudować na płytce prototypowej, nie ma konieczności przygotowywania płytki drukowanej. Do programowania wymagany jest jeden wolny port RS232 w komputerze, który można przygotować np. przy pomocy układów FTDI np. FT232RL -> sam ten układ również może służyć za programator i również jest obsługiwany przez oprogramowanie AVRDUDE dostępne nie tylko pod Linuksem.
 
 ![picture 1]({{site.url}}{{site.baseurl}}/images/programmer/dasa.png "Programator 'dasa' schemat")
 
@@ -22,7 +22,7 @@ Rozmieszczenie elementów na płytce drukowanej przedstawia rysunek:
 
 ![picture 3]({{site.url}}{{site.baseurl}}/images/programmer/dasa-f_fab.png "Programator 'dasa' rozmieszczenie elementów na płytce drukowanej")
 
-Oczywiście, tym programatorem można również i programować popularne Arduino a po drobnych przeróbka i modyfikacji oprogramowania AVR Dude również i procesory z rodziny stm32.
+Oczywiście, tym programatorem można również i programować popularne Arduino a po drobnych przeróbka i modyfikacji oprogramowania  [AVRDUDE](https://www.nongnu.org/avrdude/ "https://www.nongnu.org/avrdude/") również i procesory z rodziny stm32.
 
 A tu, materiały z GitHub'a : [Programmer for AVR](https://github.com/majsterklepka/avr-programmers.git "MajsterKlepka GitHub Account")
 

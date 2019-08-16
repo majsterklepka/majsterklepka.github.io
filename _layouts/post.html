@@ -61,6 +61,13 @@
 			{% endif %} 
 		  	   	
        	</div>
+      {%if page.tags %}
+      <p style="font-style: italic;color:#BFBFBF; text-align: left;">
+		{% for tag in page.tags %}
+    	{% capture tag_name %}{{ tag }}{% endcapture %}
+    	<a href="{{site.url}}{{site.baseurl}}/tags/{{ tag_name }}">#{{ tag_name }},&nbsp;</a>
+  		{% endfor %}
+		{%endif%}</p>
 		<h1>{{page.title | strip_html | strip_newlines | truncate: 80}}</h1>
       	<p>opublikowano: {{page.date | date_to_string}}<br/>autor: {{page.author}}</p>
       <hr>
