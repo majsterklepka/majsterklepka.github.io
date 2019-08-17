@@ -14,7 +14,7 @@ Programator 'dasa' (device avr serial adapter) to chyba jeden z prostszych ukła
 
 ![picture 1]({{site.url}}{{site.baseurl}}/images/programmer/dasa.png "Programator 'dasa' schemat")
 
-Do projektu zaprojektowałem płytkę drukowaną, wszystko z użyciem programu Kicad, poniżej układ płytki a w katalogu [dasa](https://github.com/majsterklepka/avr-programmers/tree/master/dasa "majsterklepka/avr-propgrammers") mojego repozytorium zamieściłem wszystkie pliki produkcyjne
+Do projektu zaprojektowałem płytkę drukowaną, wszystko z użyciem programu Kicad, poniżej układ płytki a w katalogu [majsterklepka/avr-programmers/dasa](https://github.com/majsterklepka/avr-programmers/tree/master/dasa "majsterklepka/avr-programmers") mojego repozytorium zamieściłem wszystkie pliki produkcyjne
 
 ![picture 2]({{site.url}}{{site.baseurl}}/images/programmer/dasa-brd.png "Programator 'dasa' PCB")
 
