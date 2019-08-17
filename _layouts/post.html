@@ -61,15 +61,17 @@
 			{% endif %} 
 		  	   	
        	</div>
-      {%if page.tags %}
-      <p style="text-align: left;">
-		{% for tag in page.tags %}
-    	{% capture tag_name %}{{ tag }}{% endcapture %}
-    	<a href="{{site.url}}{{site.baseurl}}/tags/{{ tag_name }}" style="color: #1E90FF">#{{ tag_name }}</a>&nbsp;
-  		{% endfor %}
-		{%endif%}</p>
+      
 		<h1>{{page.title | strip_html | strip_newlines | truncate: 80}}</h1>
-      	<p>opublikowano: {{page.date | date_to_string}}<br/>autor: {{page.author}}</p>
+      	<p>by {{page.author}},&nbsp;{{page.date | date_to_string}}
+      	{%if page.tags %}
+      	<span style="display: block;">
+      	{% for tag in page.tags %}
+    		{% capture tag_name %}{{ tag }}{% endcapture %}
+    		<a href="{{site.url}}{{site.baseurl}}/tags/{{ tag_name }}" style="color: #1E90FF" >#{{ tag_name }}</a>&nbsp;
+  			{% endfor %}{%endif%}
+			</span>
+      	</p>
       <hr>
 
        {{ content }}
