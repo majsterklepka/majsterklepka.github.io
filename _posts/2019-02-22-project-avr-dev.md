@@ -6,11 +6,11 @@ date: 2019-02-22 7:30 CET
 description: Płytki rozwojowe, to standard w elektronice, tu przykład płytki opartej o układ f-my Atmel ATtiny2313. 
 image: /images/avrdev/avrdev.png
 author: Paweł Sobótka
-tags: [electronics, embeded board, microcontrollers, ATtiny2313, hobby]
+tags: [electronics, embededboard, microcontrollers, ATtiny2313,equipment,  gerber]
 comments: true
 ---
 
-Płytki rozwojowe, czy jak kto woli płytki doświadczalne są od lat powszechnie stosowane w elektronice. Tu, projekt oparty o układ ATtiny2313 f-my Atmel. Płytka rozwojowa zaprojektowana z wykorzystaniem programu KiCad, aplikacji OpenSource.
+Płytki rozwojowe, czy jak kto woli płytki doświadczalne są od lat powszechnie stosowane w elektronice. Tu, projekt oparty o układ ATtiny2313 f-my Atmel. Płytka rozwojowa zaprojektowana z wykorzystaniem programu KiCad >> aplikacji OpenSource.
 
 ## Założenia projektu
 

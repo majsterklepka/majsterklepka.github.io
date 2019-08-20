@@ -6,7 +6,7 @@ date: 2019-03-09 18:00 CET
 description: Wzmacniacz audio oparty o popularny układ TEA2025B. Tu -> implementacja zaczerpnięta z danych katalogowych układu scalonego.
 image: /images/tea2025b/board.png
 author: Paweł Sobótka
-tags: [projects, amplifiers, TEA2025B, electronics]
+tags: [projects, amplifiers, TEA2025B, electronics, gerber]
 comments: true
 ---
 

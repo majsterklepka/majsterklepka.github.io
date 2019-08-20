@@ -6,7 +6,7 @@ date: 2019-08-16 00:15 UTC
 description: Programator 'dasa', projekt łatwy do powtórzenia, wymagający tylko minimum umiejętności, można go wykonać na zwykłej płytce prototypowej z wykorzystaniem kilkunastu elementów dyskretnych. Dasa - device AVR serial adapter.
 image: /images/programmer/dasa-page.png
 author: Paweł Sobótka
-tags: [electronics, component, avr, programmer, bsd, dasa, dasa3, usbasp]
+tags: [electronics, component, avr, programmer,  dasa, dasa3, gerber, equipment]
 comments: true
 ---
 

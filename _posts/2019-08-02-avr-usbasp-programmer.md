@@ -6,7 +6,7 @@ date: 2019-08-02 00:01 UTC
 description: Programator USBasp to chyba najpopularniejszy z programatorów dla układów AVR. Wykorzystuje złącza USB jako port do komunikacji z komputerem i złącze ISP jako złącze programowania. Jest to w całości projekt OpenSource.
 image: /images/programmer/usbasp.png
 author: Paweł Sobótka
-tags: [electronics, component, avr, programmer, bsd, dasa, dasa3, usbasp]
+tags: [electronics, component, avr, programmer, usbasp, gerber, equipment]
 comments: true
 ---
 

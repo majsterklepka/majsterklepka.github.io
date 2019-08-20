@@ -6,7 +6,7 @@ date: 2019-07-17 01:00 UTC
 description: Programator AVR "bsd" jest chyba najprostrzym układem z możliwych. Można go zbudować na płytce prototypowej. Był początkowo zaprojektowany dla kompilatora "BASCOM".
 image: /images/programmer/programmer-bsd.png
 author: Paweł Sobótka
-tags: [electronics, component, avr, programmer, bsd, dasa, dasa3, usbasp]
+tags: [electronics, component, avr, programmer, bsd, equipment, gerber]
 comments: true
 ---
 
