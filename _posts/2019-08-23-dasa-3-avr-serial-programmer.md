@@ -13,6 +13,7 @@ comments: true
 Na rysunku poniżej, schemat ideowy programatora **dasa3**. Oczywiście, ten programator współpracuje z oprogramowaniem [AVRDUDE](https://www.nongnu.org/avrdude/ "https://www.nongnu.org/avrdude/"), podobnie jak i pozostałe układy, opisane w poprzednich wpisach [#programmer]({% link tags/programmer.md %})
 
 ![picture 1]({{site.url}}{{site.baseurl}}/images/programmer/dasa-3.png "Programator 'dasa3' schemat ideowy")
+
 Do projektu zaprojektowałem płytkę drukowaną, nie jest ona wymagana bo programator można zbudować na płytce prototypowej, na rysunku poniżej układ płytki, a w katalogu [odnośnik](https://github.com/majsterklepka/avr-programmers/tree/master/dasa3 "majsterklepka >> avr-programmers >> dasa3") mojego repozytorium zamieściłem wszystkie pliki produkcyjne. Pliki zostały przygotowane z użycie programu [KiCad](http://http://www.kicad-pcb.org/ "KiCad, Open Source EDA software"). Pliki produkcyjne, można wysłać przez Internet np to firmy produkującej płytki PCB, niektóre firmy z tej branży akceptują również i pliki programu KiCad, inne tylko w formacie [#gerber]({% link tags/gerber.md%} ). W każdym razie, zalecam dokładne zapoznanie się z instrukcjami dla składających zamówienie, jakie są zamieszczane na stronach tych podmiotów.
 
 ![picture 2]({{site.url}}{{site.baseurl}}/images/programmer/dasa-3-brd.png "Programator 'dasa3' PCB")
