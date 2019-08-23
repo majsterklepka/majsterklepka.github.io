@@ -2,7 +2,7 @@
 lang: pl_PL
 layout: post
 title:  Dasa3, AVR serial programmer.
-date: 2019-08-20 00:15 UTC 
+date: 2019-08-23 00:15 UTC 
 description: Programator 'dasa', projekt łatwy do powtórzenia, wymagający tylko minimum umiejętności, tu wersja znana jako 'dasa3'. Ten układ jest obsługiwany przez oprogramowanie **AVRDUDE**.
 image: /images/programmer/dasa-3-page.png
 author: Paweł Sobótka
