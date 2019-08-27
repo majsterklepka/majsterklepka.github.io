@@ -22,6 +22,8 @@ github:
 paginate: 5
 paginate_path: "/home/page:num/"
 
+google_analytics: UA-146473711-1
+
 markdown: kramdown
 tag_page_layout: tags_page
 tag_page_dir: tags
