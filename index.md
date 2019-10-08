@@ -4,6 +4,7 @@ layout: default
 title: Strona Główna
 image: /images/logo.jpg
 author: Paweł Sobótka
+tags: [electronics, opensource, hams, amateur radio, physics, programming, avr, sbc, arduino, diy, modeller, radio hobby]
 ---
 
 

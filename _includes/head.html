@@ -2,6 +2,6 @@
 
 {% feed_meta %}
 
-{% if page.tags %}
-<meta name="keywords" content="{{page.tags | join: ', ' | escape }}">
+{% if site.tags %}
+<meta name="keywords" content="{{page.tags | default: site.data.tags | join: ',' | escape}}">
 {% endif %}
