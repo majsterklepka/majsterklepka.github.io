@@ -1,0 +1,41 @@
+#news {
+display: block;
+width: 100%;
+padding: 10px;
+margin-bottom: 25px;
+border-radius: 7px;
+background: #434343;
+h2{
+color: #e8e8e8;
+font-weight: bold;
+font-size: 1.4em;
+display: block;
+padding-bottom: 5px;
+}
+h4{
+display: block;
+padding: 5px;
+}
+h4:hover{
+background: #636363;
+border-radius: 5px;
+}
+a{
+display: block;
+text-decoration: none;
+color: #d0d0d0;
+font-weight: bold;
+}
+span{
+font-size: 0.8em;
+}
+a:hover{
+text-decoration: inherit;
+color: #fff;
+}
+a:visited{
+text-decoration: inherit;
+color: #aaa;
+}
+}
+
