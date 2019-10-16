@@ -7,12 +7,12 @@ author: Paweł Sobótka
 tags: [electronics, opensource, hams, amateur radio, physics, programming, avr, sbc, arduino, diy, modeller, radio hobby]
 ---
 
-
 # Witam na mojej stronie!
 
-Cześć! Mam na imię Paweł, z zawodu, z pasji jestem..., no właśnie?  
-Radioamatorem, Modelarzem, Bloggerem! Uwielbiam tworzyć, robić coś własnoręcznie. Tworzę Oprogramowanie, przygotowuję projekty, buduję modele dużych rzeczy w mniejszej skali..., tworzę grafikę, muzykę, materiały video..., prowadzę bloga! Pasjonuję się Wolnym Oprogramowaniem i Wolną Twórczością, i..., co?  
-**Właśnie w tej domenie Tworzę!**
+Cześć! Mam na imię Paweł, z zawodu, z pasji jestem..., no właśnie, Kim jestem?
+Radioamatorem, Modelarzem, Bloggerem! Uwielbiam tworzyć, robić coś własnoręcznie. Tworzę Oprogramowanie, przygotowuję projekty, buduję modele dużych rzeczy w mniejszej skali..., tworzę grafikę, muzykę, materiały video..., prowadzę bloga! Pasjonuję się Wolnym Oprogramowaniem i Wolną Twórczością, i..., co? **Właśnie w tej domenie Tworzę!**
+
+{% include news.html %}
 
 ## Moje repozytoria kodu
 Jak już wcześniej wspomniałem jestem Coder'em, i swoją twórczość udostępniam na zasadach Wolnych Licencji. Poniżej znajduje się lista moich repozytoriów z odnośnikami do stron domowych projektu, jeśli takowe istnieją:
