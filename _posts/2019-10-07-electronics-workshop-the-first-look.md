@@ -43,6 +43,8 @@ Nie ma już tych nastu lat, jestem dorosłym, dojrzałym Mężczyzną, w którym
 
 No tak, dosyć długa lista! I właśnie dlatego, od kilkunastu tygodni, prowadzę pracę projektowe na wyposażeniem swojego Warsztatu Elektronika. W dobie takich rozwiązań, jak [#Arduino]({{site.baseurl}}{% link tags/Arduino.md %}), [#RaspberryPi]({{site.baseurl}}{% link tags/RaspberryPi.md %}), [#SBC]({{site.baseurl}}{% link tags/SBC.md %}), [#AVR]({{site.baseurl}}{% link tags/avr.md %}) i [#ARM]({{site.baseurl}}{% link tags/ARM.md %}) oraz co jest bardzo ważne [#OpenSource]({{site.baseurl}}{% link tags/OpenSource.md %}) wykonanie większości sprzętu wymaganego w pracowni Konstruktora nie jest trudne. Zapraszam na mój profil na [GitHub](https://github.com/majsterklepka "GitHub Personal Account of Paweł Sobótka"), gdzie można znaleźć dotychaczas stworzone projekty.
 
+<blockquote class="twitter-tweet"><p lang="pl" dir="ltr">Zapraszam na <a href="https://t.co/GRPosPZdCd">https://t.co/GRPosPZdCd</a> jest nowy projekt <a href="https://t.co/jiZon8hODz">pic.twitter.com/jiZon8hODz</a></p>&mdash; Paweł Sobótka (@StaryWandal) <a href="https://twitter.com/StaryWandal/status/1185890607216156678?ref_src=twsrc%5Etfw">October 20, 2019</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script> 
+
 Dziękuję i zapraszam ponownie!  
 _mgr inż. Paweł Sobótka_
 - - - 
