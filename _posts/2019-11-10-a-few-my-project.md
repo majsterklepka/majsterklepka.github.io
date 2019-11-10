@@ -44,6 +44,8 @@ Taką rzecz należy zawsze mieć pod ręką! Płytka prototypowa, z ulubionym uk
 
 Projekt jest dostępny pod adresem: [AVR Atmega16 Dev Board v2](https://github.com/majsterklepka/lab1/tree/master/avr_dev_board_atmega16_v2 "AVR Atmega16 Dev Board v2")
 
+---
+
 Po więcej projektów zapraszam na:
 
 - [majsterklepka/lab1](https://github.com/majsterklepka/lab1 "GitHub Account Lab1 Repository")
