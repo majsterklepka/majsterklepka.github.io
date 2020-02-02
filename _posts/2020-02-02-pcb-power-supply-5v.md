@@ -38,3 +38,4 @@ Poczuj się wolny! Podziel się tym projektem z Przyjaciółmi i zawsze pamięta
 - - -
 
 _mgr inż. Paweł Sobótka (SQ7EQE)_
+
