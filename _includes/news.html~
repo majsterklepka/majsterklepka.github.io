@@ -3,4 +3,4 @@
       {% for post in site.posts limit: site.posts_number %}
 		<h4><a href="{{ site.baseurl }}{{ post.url }}" title="{{ post.title }}">{{ post.title }}</a><span>author: {{ post.author }} &nbsp; {{ post.date  }}</span></h4>
 		{% endfor %}
-<div>
+</div>

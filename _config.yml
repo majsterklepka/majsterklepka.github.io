@@ -33,6 +33,9 @@ tag_feed_layout: tags_feed
 tag_feed_dir: tags
 tag_permalink_style: pretty
 
+feed:
+  path: /rss/feed.xml
+
 manifest_name: Majster Klepka
 manifest_short_name: Majster Klepka 
 manifest_lang: pl
