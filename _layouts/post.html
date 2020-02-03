@@ -58,7 +58,7 @@
        	</div>
       
 		<h1>{{page.title | strip_html | strip_newlines | truncate: 80}}</h1>
-      	<p>by {{page.author}},&nbsp;{{page.date | date_to_string}}
+      	<p>by {{page.author}},&nbsp;{{page.date | date_to_long_string }}
       	{%if page.tags %}
       	<span style="display: block;">
       	{% for tag in page.tags %}
@@ -72,7 +72,7 @@
        {{ content }}
 
        {%if page.comments %}
-       <div class="fb-comments" style="width: 100%"data-href="{{site.url}}{{site.baseurl}}{{page.url}}" data-width="700" data-numposts="5"></div>
+       <div class="fb-comments" style="width: 100%"data-href="{{site.url}}{{site.baseurl}}{{page.url}}" data-width="600" data-numposts="5"></div>
        {% endif %}
 
        {% include social-share.html %}
