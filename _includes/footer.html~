@@ -1,0 +1,4 @@
+<div id="footer">
+<span class="credits left">&nbsp;CC-BY-SA 4.0&nbsp;</span>
+<span class="credits right">&nbsp;contact: <a href="mailto:{{site.email}}">webmaster</a>&nbsp;</span>
+</div>
