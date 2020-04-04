@@ -1,5 +1,5 @@
 ---
-lang: pl_PL
+lang: pl
 layout: post
 title:  Zasilacz stabilizowany.
 date: 2020-03-17 14:00 UTC 

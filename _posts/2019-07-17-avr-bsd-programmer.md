@@ -1,5 +1,5 @@
 ---
-lang: pl_PL
+lang: pl
 layout: post
 title:  Programator AVR BSD.
 date: 2019-07-17 01:00 UTC 

@@ -1,5 +1,5 @@
 ---
-lang: pl_PL
+lang: pl
 layout: post
 title:  Diabethes
 date: 2019-03-18 3:00 CET 

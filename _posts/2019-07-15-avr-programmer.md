@@ -1,5 +1,5 @@
 ---
-lang: pl_PL
+lang: pl
 layout: post
 title:  Programatory do układów Atmel'a.
 date: 2019-07-15 11:00 UTC 

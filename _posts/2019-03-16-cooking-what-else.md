@@ -1,5 +1,5 @@
 ---
-lang: pl_PL
+lang: pl
 layout: post
 title:  Cooking? what's else?
 date: 2019-03-16 17:00 CET 

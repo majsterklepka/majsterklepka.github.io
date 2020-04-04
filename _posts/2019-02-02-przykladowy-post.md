@@ -1,6 +1,6 @@
 ---
 layout: post
-lang: pl_PL
+lang: pl
 title:  "Przykładowy post"
 author: Paweł Sobótka
 date: 2019-02-02 19:00:00 CET

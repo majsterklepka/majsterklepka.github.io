@@ -1,5 +1,5 @@
 ---
-lang: pl_PL
+lang: pl
 layout: post
 title:  IBAN, jak sprawdzić sumę kontrolną?
 date: 2019-03-28 3:00 CET 

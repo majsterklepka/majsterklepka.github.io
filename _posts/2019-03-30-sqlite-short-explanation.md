@@ -1,5 +1,5 @@
 ---
-lang: pl_PL
+lang: pl
 layout: post
 title:  SQlite, krótkie wyjaśnienie
 date: 2019-03-30 17:00 CET 

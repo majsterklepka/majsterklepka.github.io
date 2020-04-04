@@ -1,5 +1,5 @@
 ---
-lang: pl_PL
+lang: pl
 layout: post
 title:  Programator AVR USBasp.
 date: 2019-08-02 00:01 UTC 

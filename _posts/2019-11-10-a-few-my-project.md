@@ -1,5 +1,5 @@
 ---
-lang: pl_PL
+lang: pl
 layout: post
 title:  A Few My Project - Electronics Workshop.
 date: 2019-11-10 09:15 UTC 

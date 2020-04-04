@@ -1,5 +1,5 @@
 ---
-lang: pl_PL
+lang: pl
 layout: post
 title:  opensource - what the hell that is!?
 date: 2019-10-09 00:15 UTC 

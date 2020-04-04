@@ -1,5 +1,5 @@
 ---
-lang: pl_PL
+lang: pl
 layout: post
 title:  Bash? That's OK! It's script(ing)...
 date: 2019-03-15 8:50 CET 

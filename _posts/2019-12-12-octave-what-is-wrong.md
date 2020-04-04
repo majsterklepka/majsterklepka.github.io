@@ -1,5 +1,5 @@
 ---
-lang: pl_PL
+lang: pl
 layout: post
 title:  Octave? What is wrong(with You)?
 date: 2019-12-12 0:15 UTC 

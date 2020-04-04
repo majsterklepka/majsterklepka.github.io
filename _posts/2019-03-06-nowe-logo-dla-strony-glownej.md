@@ -1,5 +1,5 @@
 ---
-lang: pl_PL
+lang: pl
 layout: post
 title: Nowe logo dla strony głównej.
 date: 2019-03-06 15:00 CET 

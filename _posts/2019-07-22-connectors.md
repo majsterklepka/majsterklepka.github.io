@@ -1,5 +1,5 @@
 ---
-lang: pl_PL
+lang: pl
 layout: post
 title:  Connectors.
 date: 2019-07-22 03:00 UTC 

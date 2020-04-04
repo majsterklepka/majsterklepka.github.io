@@ -1,5 +1,5 @@
 ---
-lang: pl_PL
+lang: pl
 layout: post
 title:  Echo cat & others.
 date: 2019-11-26 12:15 UTC 

@@ -1,5 +1,5 @@
 ---
-lang: pl_PL
+lang: pl
 layout: post
 title: TEA2025B audio amplifier.
 date: 2019-03-09 18:00 CET 

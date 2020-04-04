@@ -1,5 +1,5 @@
 ---
-lang: pl_PL
+lang: pl
 layout: post
 title:  Etykiety z Libre Office.
 date: 2020-02-03 0:15 UTC 

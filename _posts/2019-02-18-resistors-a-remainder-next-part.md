@@ -1,5 +1,5 @@
 ---
-lang: pl_PL
+lang: pl
 layout: post
 title: Resistors, a remainder - next part
 date: 2019-02-18 2:30 CET 

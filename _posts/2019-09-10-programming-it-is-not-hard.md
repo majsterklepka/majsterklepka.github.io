@@ -1,5 +1,5 @@
 ---
-lang: pl_PL
+lang: pl
 layout: post
 title:  Programming? It's not hard!
 date: 2019-09-10 12:15 UTC 

@@ -1,5 +1,5 @@
 ---
-lang: pl_PL
+lang: pl
 layout: about
 title: O mnie... Autorze.
 image: /images/blog-author.png

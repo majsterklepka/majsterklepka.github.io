@@ -1,5 +1,5 @@
 ---
-lang: pl_PL
+lang: pl
 layout: post
 title:  Jak to działa?
 date: 2019-04-28 13:00 UTC 

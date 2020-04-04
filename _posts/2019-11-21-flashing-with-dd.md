@@ -1,5 +1,5 @@
 ---
-lang: pl_PL
+lang: pl
 layout: post
 title:  Flashing with dd.
 date: 2019-11-21 14:15 UTC 

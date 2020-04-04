@@ -1,5 +1,5 @@
 ---
-lang: pl_PL
+lang: pl
 layout: post
 title: Dioda - teoria i praktyka cz. II
 date: 2019-02-05 6:00 CET

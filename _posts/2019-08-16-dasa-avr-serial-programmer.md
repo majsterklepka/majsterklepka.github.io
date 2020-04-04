@@ -1,5 +1,5 @@
 ---
-lang: pl_PL
+lang: pl
 layout: post
 title:  Dasa, AVR serial programmer.
 date: 2019-08-16 00:15 UTC 

@@ -1,5 +1,5 @@
 ---
-lang: pl_PL
+lang: pl
 layout: post
 title: Mostek Graetza
 date: 2019-02-21 10:00 CET 

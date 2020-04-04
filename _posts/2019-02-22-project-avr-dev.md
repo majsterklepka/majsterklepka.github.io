@@ -1,5 +1,5 @@
 ---
-lang: pl_PL
+lang: pl
 layout: post
 title: Projekt AVR Dev
 date: 2019-02-22 7:30 CET 

@@ -1,5 +1,5 @@
 ---
-lang: pl_PL
+lang: pl
 layout: post
 title: Diody - teoria i praktyka cz. III
 date: 2019-02-08 3:00 CET 

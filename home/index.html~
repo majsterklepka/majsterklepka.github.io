@@ -1,8 +1,0 @@
----
-lang: pl_PL
-title: Publikacje
-layout: home
-image: /images/publications.png
-description: Tworzenie... No właśnie, tu tworzę! Na stronie - publikacje z nauki i techniki. Ze świata Open-Source. Moje i innych projekty.
----
-{% include post.html %}

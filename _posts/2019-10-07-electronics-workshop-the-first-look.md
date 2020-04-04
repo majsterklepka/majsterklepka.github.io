@@ -1,5 +1,5 @@
 ---
-lang: pl_PL
+lang: pl
 layout: post
 title:  Electronics Workshop - The First Look.
 date: 2019-10-07 00:15 UTC 

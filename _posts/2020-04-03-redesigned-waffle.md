@@ -1,5 +1,5 @@
 ---
-lang: pl_PL
+lang: pl
 layout: post
 title:  AVRISP mkII Programmer Clone.
 date: 2020-04-03 1:00 UTC 

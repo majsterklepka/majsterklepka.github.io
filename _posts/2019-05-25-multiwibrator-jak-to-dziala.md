@@ -1,5 +1,5 @@
 ---
-lang: pl_PL
+lang: pl
 layout: post
 title:  Multiwibrator, Jak to działa?
 date: 2019-05-25 2:00 UTC 

@@ -1,5 +1,5 @@
 ---
-lang: pl_PL
+lang: pl
 layout: post
 title: Resistors, a remainder
 date: 2019-02-17 15:00 CET 

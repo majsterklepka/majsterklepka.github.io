@@ -1,5 +1,5 @@
 ---
-lang: pl_PL
+lang: pl
 layout: post
 title:  PCB Power Supply +5V.
 date: 2020-02-02 0:15 UTC 
