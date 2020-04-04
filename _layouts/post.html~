@@ -58,7 +58,7 @@
        	</div>
       
 		<h1>{{page.title | strip_html | strip_newlines | truncate: 80}}</h1>
-      	<p>by {{page.author}},&nbsp;{{page.date | date_to_long_string: "ordinal","PL"}}
+      	<p>by {{page.author}},&nbsp;{{page.date | date_to_long_string }}
       	{%if page.tags %}
       	<span style="display: block;">
       	{% for tag in page.tags %}
