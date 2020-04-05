@@ -7,25 +7,17 @@ author: Paweł Sobótka
 tags: [electronics, opensource, hams, amateur radio, physics, programming, avr, sbc, arduino, diy, modeller, radio hobby]
 ---
 
-# Witam na mojej stronie!
+# 73 de SQ7EQE op Pawel du cpy?
 
-Cześć! Mam na imię Paweł, z zawodu, z pasji jestem..., no właśnie, Kim jestem?
-Radioamatorem, Modelarzem, Bloggerem! Uwielbiam tworzyć, robić coś własnoręcznie. Tworzę Oprogramowanie, przygotowuję projekty, buduję modele dużych rzeczy w mniejszej skali..., tworzę grafikę, muzykę, materiały video..., prowadzę bloga! Pasjonuję się Wolnym Oprogramowaniem i Wolną Twórczością, i..., co? **Właśnie w tej domenie Tworzę!**
+Z wykształcenia jestem Inżynierem, z pasji również. Moim konikiem jest zrobić coś osobiście, samemu a przy okazji pokazać, że coś umiem. Ukończone studia techniczne z zakresu Fizyki Technicznej na AGH w Krakowie dały mi pewne ugruntowanie już posiadanej wiedzy i umiejętności, reszta to całe lata praktyki i co nie jest mi obojętne, nadal tą wiedzę i umiejętności rozwijam!
 
 {% include news.html %}
 
-## Moje repozytoria kodu
-Jak już wcześniej wspomniałem jestem Coder'em, i swoją twórczość udostępniam na zasadach Wolnych Licencji. Poniżej znajduje się lista moich repozytoriów z odnośnikami do stron domowych projektu, jeśli takowe istnieją:
+No i oczywiście, ach tak? Zapomniałbym!! Jestem ogromnym fanem OpenSource, Linuksa i ogólnie Wolnych Systemów Operacyjnych  w swojej pracy korzystam z Wolnych Licencji i Wolnego Oprogramowania ale nie tylko. Jestem również Radioamatorem, z ponad 20-to letnim doświadczeniem. Licencję uzyskałem w 1996 roku ( mamy 2020 rok jakby tu nie patrzeć..., inne stulecie ), w trakcie studiów wyższych, jako jedno z zaleceń mojego Mentora w dziedzinie uprawnień zawodowych. 
 
-- Repozytorium [Bank Cash Deposit](https://github.com/majsterklepka/BaCaDe "Repozytorium BaCaDe") -> [Strona Domowa projektu](https://majsterklepka.github.io/BaCaDe "Strona Domowa Projektu BaCaDe"), 
-- Repozytorium [libiban](https://github.com/majsterklepka/libiban "Repozytorium libiban") - biblioteki testującej poprawność numeru IBAN
-- Repozytorium [Today's Jobs](https://github.com/majsterklepka/tdsj "Repozytorium tdsj") repozytorium z efektem zwykłej, codziennej pracy
-- Repozytorium [Ham Radio Project](https://github.com/majsterklepka/hrl "Repozytorium hrl") to efekt mojej pracy w zakresie mojego radio-hobby
-- Repozytorium [Carramba Libs](https://github.com/majsterklepka/carramba-libs "Repozytorium Carramba Libs") to projekt z biblioteką Open Source zaprojektowaną do walidacji numerów osobistych, takich jak PESEL, NIP, REGON, IBAN. Biblioteka sprawdza poprawność polskich numerów, co jest przydatne w biznesie.
+Mam ją do dnia dzisiejszego, pasjonuję się sprzętem DIY również w zakresie wyposażenia swojego warsztatu pracy, co każdemu polecam! No i pasja, którą zaszczepił mi mój Ojciec nieżyjący już od ponad 36 lat: Modelarstwo i Radiomodelarstwo, tego nigdy się nie zapomina i robi się to przez całe życie ;)
 
-Jestem również obecny na [Twitterze](https://twitter.com/StaryWandal "@StaryWandal"). Aha, zapomniałbym o [Facebook](https://facebook.com/agrestmen "Paweł Sobótka FunPage at Facebook") -> jest to profil prywatny.
+Nasuwa się tu proste pytanie: Ile mam lat? Ale na to pytanie, jak każdy dorosły..., dojrzały..., doświadczony... i samodzielny człowiek, tak, po prostu, nie odpowiem ;) Wszak bawię się zabawkami, nieprawdaż?
 
-### Uaktualnienie:
-
-- Repozytorium [bcd](https://github.com/majsterklepka/bcd "Repozytorium bcd") -> [Strona Domowa Projektu](https://majsterklepka.github.io/bcd "Strona Domowa Projektu Bank Cash Deposit w Python") - jest to aplikacja napisana w języku Python i zawiera pewne błędy związane z obsługą ogromnych liczb o wielkiej precyzji => wprowadziłem do kodu pewne poprawki właśnie z obsługą wielkich liczb i aplikacja działa poprawnie. Czyli prawidłowo wylicza sumę kontrolną numeru IBAN.
-
+_MSc. Paweł Sobótka (SQ7EQE)_  
+prowadzący bloga
