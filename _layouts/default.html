@@ -49,6 +49,13 @@
 			 <br/>
 			 {% include nav.html %}
 			 
+			 <p style="font-size: small">
+			{% for tag in site.tags %}
+			{% capture tag_name %}{{ tag | first }}{% unless forloop.last %}{% endunless %}{% endcapture %}
+			<a href="{{site.url}}{{site.baseurl}}/tags/{{tag_name}}" style="color: #1E90FF;" >#{{ tag_name }},</a>
+			{% endfor %}
+			</p>
+			<hr>			 
   		</div>
         
        {{ content }}
