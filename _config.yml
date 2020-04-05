@@ -22,7 +22,7 @@ github:
 
 paginate: 5
 paginate_path: "/home/page:num/"
-posts_number: 3
+posts_number: 4
 
 google_analytics: UA-146473711-1
 

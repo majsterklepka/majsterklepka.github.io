@@ -1,5 +1,6 @@
 #news {
 display: block;
+text-align: center;
 width: 100%;
 padding: 10px;
 margin-bottom: 25px;
@@ -13,8 +14,10 @@ display: block;
 padding-bottom: 5px;
 }
 h4{
-display: block;
-padding: 5px;
+display: inline-block;
+width: 300px;
+border: 2px solid white;
+padding: 7px;
 }
 h4:hover{
 background: #636363;
@@ -26,7 +29,13 @@ text-decoration: none;
 color: #d0d0d0;
 font-weight: bold;
 }
-span{
+a img {
+display: block;
+width: 100%;
+}
+a img span{
+display: block;
+width: 100%;
 font-size: 0.8em;
 }
 a:hover{

@@ -1,6 +1,6 @@
 <div id="news">        
-      <h2>Ostatnie wpisy:</h2>
+      <h2>ostatnie wpisy</h2>
       {% for post in site.posts limit: site.posts_number %}
-		<h4><a href="{{ site.baseurl }}{{ post.url }}" title="{{ post.title }}">{{ post.title }}</a><span>by {{ post.author }} &nbsp; {{ post.date | date_to_string }}</span></h4>
+		<h4><a href="{{site.url}}{{ site.baseurl }}{{ post.url }}" title="{{ post.title }}"><img src="{{site.url}}{{ site.baseurl }}{{ post.image }}" alt="{{ post.title }}"><span>{{ post.title }}</span></a></h4>
 		{% endfor %}
 </div>
