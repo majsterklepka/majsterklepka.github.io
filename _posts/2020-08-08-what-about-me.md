@@ -16,7 +16,7 @@ Z wykształcenia jestem Inżynierem, z pasji również. Moim konikiem jest zrobi
 ## Nieudany projekt, nowe płytki zamówione
 ![pict01]({{site.url}}{{site.baseurl}}/images/what-about-me/pict01.jpg)
 
-Ostatnio pracowałem nad projektem woltomierza cyfrowego. Płytka, którą zaprojektowałem miała kilka drobnych wad, poprawiłem je i zamówiłem ponownie. Całość projektu tu:[](https://github.com/majsterklepka/varbose-potato "ICL7107 Digital Voltmeter Module")
+Ostatnio pracowałem nad projektem woltomierza cyfrowego. Płytka, którą zaprojektowałem miała kilka drobnych wad, poprawiłem je i zamówiłem ponownie. Całość projektu tu:[varbose-potato](https://github.com/majsterklepka/varbose-potato "ICL7107 Digital Voltmeter Module")
 
 ## Taki drobiazg, do pracowni
 ![pict02]({{site.url}}{{site.baseurl}}/images/what-about-me/pict02.jpg)
