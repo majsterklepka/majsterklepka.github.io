@@ -1,0 +1,7 @@
+#tags{
+position:relative;
+top: 1em;
+font-size: normal;
+text-align: justify;
+padding-bottom: 1em;
+}

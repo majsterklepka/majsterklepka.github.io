@@ -4,7 +4,6 @@
 @import "social-share.scss";
 @import "paginator.scss";
 @import "news.scss";
-@import "tags-line.scss";
 
 body {
   padding:0px 0 20px 0px;
