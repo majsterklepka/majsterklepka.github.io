@@ -19,5 +19,5 @@ Mam ją do dnia dzisiejszego, pasjonuję się sprzętem DIY również w zakresie
 
 Nasuwa się tu proste pytanie: Ile mam lat? Ale na to pytanie, jak każdy dorosły..., dojrzały..., doświadczony... i samodzielny człowiek, tak, po prostu, nie odpowiem ;) Wszak bawię się zabawkami, nieprawdaż?
 
-_MSc. Paweł Sobótka (SQ7EQE)_  
+_MSc Paweł Sobótka (SQ7EQE)_  
 prowadzący bloga
