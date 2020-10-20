@@ -1,7 +1,7 @@
 ---
 lang: pl
 layout: post
-title:  AVR-GCC examples part 1?
+title:  AVR-GCC examples part 1
 date: 2020-09-20 6:30 UTC 
 description: Z wykształcenia jestem Inżynierem, z pasji również. Moim konikiem jest zrobić coś osobiście, samemu a przy okazji pokazać, że coś umiem ... 
 image: /images/avr-gcc-examples-part-1.png
