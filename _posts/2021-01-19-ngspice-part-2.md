@@ -85,7 +85,7 @@ gs -sDEVICE=jpeg -dJPEGQ=100 -dNOPAUSE -dBATCH -dEPSCrop -dSAFER -r100 -sOutputF
 
 ```
 
-Ten skrypt użyłem do przygotowania wyjściowych grafik wygenerowanych prze ngspice w formacie Postscript
+Ten skrypt użyłem do przygotowania wyjściowych grafik wygenerowanych przez ngspice w formacie Postscript
 
 ## Credits
 
