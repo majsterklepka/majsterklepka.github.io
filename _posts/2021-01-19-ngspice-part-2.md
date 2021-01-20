@@ -18,18 +18,24 @@ Z wykształcenia jestem Inżynierem, z pasji również. Moim konikiem jest zrobi
 kilka ważnych wzorów:
 
 ```
-	Pd = I^2*R [W]
+	      2
+        Pd = I  R [W]
 
-	Vd = R*I [V]
+	Vd = I R  [V]
 
+             U
+	I  = - 	  [A] 
+	     R
+	
 ```
 
-Pd - moc strat na rezystorze
+Pd - moc strat na rezystorze  
+Vd - spadek napięcia na rezystorze  
+I  - prąd  
+U  - napięcie  
+R  - rezystancja   
 
-Vd - spadek napięcia na rezystorze 
-
-Do symulacji wykorzystano prosty układ, źródło prądowe połączone równolegle z rezystorem,
- poniżej plik z zestawem komend dla ngspice
+Do symulacji wykorzystano prosty układ, źródło prądowe połączone równolegle z rezystorem, poniżej plik z zestawem komend dla ngspice
 
 ```
 Power Dispose
@@ -61,7 +67,7 @@ Zestawienie elementów:
 - rload   : 0R470
 - isource : 100mA
 
-Oczywiście aby móc podejrzeć zmiany należało zastosować analizę DC, przemiatając źr prądowe w zakresie 0...100mA 
+Oczywiście aby móc podejrzeć zmiany należało zastosować analizę DC, przemiatając źródło prądowe w zakresie 0...100mA 
 
 
 ## Co na pokazuje symulator?
@@ -71,6 +77,8 @@ Oczywiście aby móc podejrzeć zmiany należało zastosować analizę DC, przem
 - - -
 
 ![pict02]({{site.url}}{{site.baseurl}}/images/trans01/vd.jpg "drop voltage")
+
+>Wyjaśnienie: na wykresie napięcie ma tendencję rosnącą, jednak spadek napięcia ma wartość ujemną(odwrotną do kierunku płynącego prądu) funkcja abs pokazuje wartość parametru bez znaku.
 
 ## Przydatny skrypt w shell'u
 
