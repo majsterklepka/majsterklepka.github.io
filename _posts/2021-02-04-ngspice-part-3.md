@@ -59,7 +59,7 @@ Oczywiście aby móc podejrzeć zmiany należało zastosować analizę DC, przem
 ![pict03]({{site.url}}{{site.baseurl}}/images/trans01/bf214-out.jpg "output characteristic")
 
 
->**Uwaga:** na wykresie przebiegi mają tendencję rosnącą, jednak w rzeczywistym układzie jest ona malejąca.
+>**Uwaga:** na wykresie przebiegi mają tendencję rosnącą,  tak ma być. Jednak gdybyśmy zmierzyli prąd płynący przez źródło napięciowe VCC to byłby on ujemny.
 
 ## Credits
 
