@@ -74,9 +74,10 @@
 
        {{ content }}
 
-       {%if page.comments %}
+       <!-- >{%if page.comments %}
        <div class="fb-comments" style="width: 100%"data-href="{{site.url}}{{site.baseurl}}{{page.url}}" data-width="600" data-numposts="5"></div>
-       {% endif %}
+       {% endif %} 
+       <!-- >
 
        {% include social-share.html %}
 
